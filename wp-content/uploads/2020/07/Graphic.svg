@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="553px" height="497px" viewBox="0 0 553 497" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>C40B504B-D634-4327-A457-0E490A183143</title>
+    <g id="Visual-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product---Lighthouse" transform="translate(-38.000000, -1546.000000)">
+            <g id="Group-13" transform="translate(-60.000000, 1283.000000)">
+                <g id="Content/-Laptop-mockup" transform="translate(0.000000, 134.000000)">
+                    <g id="Graphic" transform="translate(98.000000, 129.000000)">
+                        <g id="Grid" transform="translate(70.000000, 38.000000)">
+                            <rect id="Rectangle-" stroke="#292C38" x="212.595238" y="0.5" width="1" height="423.190476"></rect>
+                            <rect id="Rectangle" stroke="#292C38" transform="translate(212.500000, 212.095238) rotate(-270.000000) translate(-212.500000, -212.095238) " x="212.595238" y="0.5" width="1" height="423.190476"></rect>
+                            <rect id="Rectangle" stroke="#292C38" transform="translate(213.308753, 211.285714) rotate(-45.000000) translate(-213.308753, -211.285714) " x="213.404762" y="-0.30952381" width="1" height="423.190476"></rect>
+                            <rect id="Rectangle" stroke="#292C38" transform="translate(211.689705, 211.285714) rotate(-135.000000) translate(-211.689705, -211.285714) " x="211.785714" y="-0.30952381" width="1" height="423.190476"></rect>
+                            <circle id="Oval" stroke="#292C38" cx="212.5" cy="212.5" r="212"></circle>
+                            <circle id="Oval-" stroke="#292C38" cx="212.5" cy="211.690476" r="171.52381"></circle>
+                            <circle id="Oval" stroke="#292C38" cx="212.5" cy="211.690476" r="131.047619"></circle>
+                            <circle id="Oval" stroke="#292C38" cx="212.5" cy="211.690476" r="90.5714286"></circle>
+                            <circle id="Oval" stroke="#292C38" cx="212.5" cy="211.690476" r="50.0952381"></circle>
+                            <circle id="Oval" fill="#1C1E24" cx="212.5" cy="211.690476" r="10.1190476"></circle>
+                            <circle id="Oval" stroke="#292C38" cx="212.5" cy="211.690476" r="9.61904762"></circle>
+                        </g>
+                        <g id="Shape" transform="translate(106.000000, 78.000000)">
+                            <g transform="translate(28.006515, 84.462541)" fill="#16CEB9">
+                                <path d="M211.137132,23.2578225 C198.618325,13.4179745 173.882135,-4.96714278 147.993485,2.53745928 C123.153146,9.73817713 123.713703,30.8538644 95.9934853,33.5374593 C68.2732679,36.2210542 40.9934853,45.4944724 40.9934853,87.5374593 C40.9934853,129.580446 -19.4704765,196.536989 7.99348534,225.537459 C24.0890955,242.53356 64.5847058,225.537459 147.993485,225.537459 C190.913423,225.537459 233.897875,204.53356 249.993485,187.537459 C266.089095,170.541358 245.993485,114.373408 245.993485,87.5374593 C245.993485,60.7015102 223.65594,33.0976705 211.137132,23.2578225 Z"></path>
+                            </g>
+                            <g opacity="0.8" fill="#6648FF">
+                                <path d="M273,74 C238.092593,36.3800639 219.290123,0 176.32716,0 C133.364198,0 97.0411703,45.1048914 81,74 C64.9588297,102.895109 0,138.75434 0,171 C0,203.24566 47.7448306,223.412458 91,255 C124.117284,279.184245 147.563774,271.734831 176.32716,269.400968 C209.444444,266.713829 239.993827,268.227117 257,253 C274.006173,237.772883 253.419753,213.202787 257,172 C260.580247,130.797213 307.907407,111.619936 273,74 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Text" fill="#FFFFFF" font-family="Inter-Bold, Inter" font-size="12" font-weight="bold" line-spacing="20">
+                            <text>
+                                <tspan x="269.991477" y="12">One</tspan>
+                            </text>
+                            <text>
+                                <tspan x="444.207386" y="83">Two</tspan>
+                            </text>
+                            <text>
+                                <tspan x="507.620028" y="250">Three</tspan>
+                            </text>
+                            <text>
+                                <tspan x="449.12571" y="420">Four</tspan>
+                            </text>
+                            <text>
+                                <tspan x="104.495739" y="419">Six</tspan>
+                            </text>
+                            <text>
+                                <tspan x="12.6526989" y="250">Seven</tspan>
+                            </text>
+                            <text>
+                                <tspan x="89.8167614" y="83">Eight</tspan>
+                            </text>
+                            <text>
+                                <tspan x="271.257102" y="489">Five</tspan>
+                            </text>
+                        </g>
+                        <g id="Dots" transform="translate(66.000000, 34.000000)">
+                            <circle id="Shape" fill="#6648FF" cx="4" cy="216" r="4"></circle>
+                            <circle id="Shape" fill="#6648FF" cx="67" cy="65" r="4"></circle>
+                            <circle id="Shape" fill="#6648FF" cx="217" cy="4" r="4"></circle>
+                            <circle id="Shape" fill="#4346D3" cx="368" cy="366" r="4"></circle>
+                            <circle id="Shape" fill="#4346D3" cx="429" cy="216" r="4"></circle>
+                            <circle id="Shape" fill="#6648FF" cx="366" cy="66" r="4"></circle>
+                            <circle id="Shape" fill="#4346D3" cx="217" cy="429" r="4"></circle>
+                            <circle id="Shape" fill="#4346D3" cx="65" cy="366" r="4"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

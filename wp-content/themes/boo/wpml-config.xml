@@ -1,0 +1,18 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">rella-portfolio</custom-type>
+		<custom-type translate="1">rella-header</custom-type>
+		<custom-type translate="1">rella-footer</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">rella-portfolio-category</taxonomy>
+	</taxonomies>
+	<admin-texts>
+		<key name="prefix_opt_name">
+			<key name="title-bar-heading" />
+			<key name="title-bar-subheading" />
+			<key name="error-404-subtitle" />
+			<key name="error-404-content" />
+		</key>
+	</admin-texts>
+</wpml-config>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>support</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="History-/-Expanded-menu" transform="translate(-44.000000, -384.000000)" fill="#FFFFFF">
+            <g id="Nav" transform="translate(0.000000, -4.000000)">
+                <g id="Group" transform="translate(43.000000, 150.000000)">
+                    <path d="M17.75,245.1 L17.75,243 L5.25,243 L5.25,245.1 L17.75,245.1 Z M13.6,251.35 L13.6,249.25 L5.25,249.25 L5.25,251.35 L13.6,251.35 Z M5.25,246.125 L5.25,248.225 L17.75,248.225 L17.75,246.125 L5.25,246.125 Z M19.85,238.85 C20.4166695,238.85 20.899998,239.049998 21.3,239.45 C21.700002,239.850002 21.9,240.333331 21.9,240.9 L21.9,253.4 C21.9,253.96667 21.700002,254.458331 21.3,254.875 C20.899998,255.291669 20.4166695,255.5 19.85,255.5 L5.25,255.5 L1.1,259.65 L1.1,240.9 C1.1,240.333331 1.299998,239.850002 1.7,239.45 C2.100002,239.049998 2.5833305,238.85 3.15,238.85 L19.85,238.85 Z" id="support"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

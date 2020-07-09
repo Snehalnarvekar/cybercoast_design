@@ -1,0 +1,7273 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Boo\n"
+"POT-Creation-Date: 2019-05-03 16:38+0300\n"
+"PO-Revision-Date: 2016-03-27 02:01+0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: MantraThemes <info@mantrathemes.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:83
+msgid "Search for:"
+msgstr ""
+
+#: comments.php:20 templates/blog/single/cover.php:43
+#: templates/blog/single/default.php:35 templates/blog/single/minimal.php:38
+#: templates/entry-meta.php:11
+msgid "Opinions"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:51 templates/portfolio/partial-filters.php:59
+msgid "Name"
+msgstr ""
+
+#: comments.php:52
+msgid "Email"
+msgstr ""
+
+#: comments.php:53
+msgid "Website"
+msgstr ""
+
+#: comments.php:54
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:60
+msgid "Join the Discussion"
+msgstr ""
+
+#: comments.php:63
+msgid "Comment"
+msgstr ""
+
+#: comments.php:65 theme/theme-hooks.php:458
+msgid "Send"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:80
+msgid "Choose an image/svg icon"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:81
+msgid "Select"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:97
+msgid "<span class=\"dashicons dashicons-info\"></span> Reset"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:98
+msgid ""
+"Remove posts, pages, media and any other content on your current site, We "
+"strongly recommend to reset before importing ( even if this is a fresh "
+"site ) to avoid any overlap or conflict with your current content.<br/"
+"><strong>Note:</strong> Don't use the reset option if you are trying to "
+"import some parts only ( For example if you are going to import theme "
+"options only then you may continue without reset )"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:99
+msgid "Reset Then Import"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:100
+msgid "Keep Importing Without Resetting"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:101
+msgid "I understand"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:102
+msgid "<span class=\"dashicons dashicons-warning\"></span> Warning"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:103
+msgid ""
+"Since you selected to reset before importing please be aware this action "
+"cannot be reversed ( Any removed content cannot be restored )"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:194 rella/admin/views/rella-tabs.php:2
+msgid "Import Demos"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:199
+msgid "Rella Import Demo"
+msgstr ""
+
+#: rella/admin/rella-admin-init.php:234
+msgid "Dashboard"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:3
+msgid "Unregistered"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:4
+msgid "Activate Boo"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:5
+msgid "Let's activate the theme to enable updates, demos and multiple features"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:6
+msgid "Disabled"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:11
+msgid "Registered"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:12
+msgid "Activated"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:13
+msgid "Enabled"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:14
+msgid "Thanks! The theme is activated."
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:55
+msgid "Automatic Updates"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:56
+msgid "Latest features, demos and more at your fingertips."
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:66
+msgid "Documentation"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:67
+msgid "Extensive documentation including up-to-date changelog."
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:69
+msgid "Read Docs"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:79
+msgid "Video Tutorials"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:80
+msgid "The fastest and easiest way to learn more about Boo.."
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:82
+msgid "Watch now"
+msgstr ""
+
+#: rella/admin/views/rella-dashboard.php:89
+msgid "COULDN'T FIND WHAT YOU'RE LOOKING FOR? SUBMIT A TICKET"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:16
+msgid "Boo Demos"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:24
+msgid ""
+"Importing a demo will create pages, posts, add images, theme options, "
+"widgets, sliders and others."
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:25
+msgid ""
+"IMPORTANT: Please, install and activate required plugins  before to import "
+"any demo."
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:44
+msgid "Preview"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:49
+msgid "Import Demo"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:60
+msgid "Importing"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:61
+msgid "Import in progress, don't close the window."
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:63
+msgid "Working"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:67
+msgid "Congratulations, the Demo has been successfully Imported!"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:77
+msgid "Please wait.."
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:89
+msgid "Boo"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:96
+msgid "View Demo"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:104
+msgid "What You Get In This Package"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:105
+msgid ""
+"This package will import the content you choose using bottoms below. Please "
+"note that choosing media, will increase the import time dramatically. Also "
+"you need to install required plugins like contact form 7 before importing "
+"the demos."
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:112
+msgid "CONTENT"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:119
+msgid "MEDIA"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:127
+msgid "YELLOW"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:136
+msgid "WIDGETS"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:145
+msgid "SLIDERS"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:153
+msgid "SETTING"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:160
+msgid "HOME PAGE"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:169
+msgid ""
+"New builder settings will overwrite your current settings, are you sure "
+"about this?"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:174
+msgid "Yes, Im sure about this"
+msgstr ""
+
+#: rella/admin/views/rella-demos.php:177
+msgid "import demo"
+msgstr ""
+
+#: rella/admin/views/rella-header.php:9
+#, php-format
+msgid "Welcome to %s!"
+msgstr ""
+
+#: rella/admin/views/rella-header.php:11
+#, php-format
+msgid "Theme Version: %s"
+msgstr ""
+
+#: rella/admin/views/rella-plugins.php:17
+msgid "Themerella Plugins"
+msgstr ""
+
+#: rella/admin/views/rella-plugins.php:24
+msgid ""
+"Custom and third party plugins ( over $1000 in value ) you can use for free!"
+msgstr ""
+
+#: rella/admin/views/rella-tabs.php:3
+msgid "Visual Help"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:158
+msgid "Browse:"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:159
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:160
+msgid "Home"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:161
+msgid "404 Not Found"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:162
+msgid "Archives"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:163
+#: rella/structure/posts.php:284
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:164
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:165
+#: rella/structure/posts.php:295
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:166
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:513
+#: rella/structure/posts.php:292
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:525
+#: rella/structure/posts.php:295
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:537
+#: rella/structure/posts.php:298
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:548
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:571
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:591
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:611
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:868
+#: rella/structure/posts.php:304 rella/structure/posts.php:310
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:549
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:592
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:871
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:550
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:874
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: rella/extensions/breadcrumb/rella-breadcrumb.php:572
+#: rella/structure/posts.php:304
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-custom-icon.php:141
+msgid "Image"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-custom-icon.php:270
+msgid "Custom Image/svg Icon"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-custom-icon.php:271
+msgid "Change menu item image/svg icon"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-custom-icon.php:271
+msgid "Set menu item image/svg icon"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-custom-icon.php:274
+msgid "Set image/svg icon"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-custom-icon.php:275
+msgid "Remove"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:55
+msgid "Select Mega Menu"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:57
+#: theme/theme-options/rella-header-title-wrapper.php:71
+msgid "None"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:69
+msgid "Submenu Style"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:71
+#: theme/metaboxes/rella-content.php:26
+#: theme/metaboxes/rella-header-options.php:26
+#: theme/metaboxes/rella-header.php:27 theme/metaboxes/rella-header.php:56
+#: theme/metaboxes/rella-page.php:27
+#: theme/metaboxes/rella-portfolio-general.php:81
+#: theme/metaboxes/rella-portfolio-meta.php:27
+#: theme/metaboxes/rella-portfolio-meta.php:40
+#: theme/metaboxes/rella-portfolio-meta.php:53
+#: theme/metaboxes/rella-portfolio-meta.php:95
+#: theme/metaboxes/rella-portfolio-meta.php:158
+#: theme/metaboxes/rella-post-format.php:21
+#: theme/metaboxes/rella-post-format.php:32 theme/metaboxes/rella-post.php:25
+#: theme/metaboxes/rella-post.php:38 theme/metaboxes/rella-post.php:63
+#: theme/metaboxes/rella-post.php:76 theme/metaboxes/rella-post.php:89
+#: theme/metaboxes/rella-post.php:102 theme/metaboxes/rella-post.php:115
+#: theme/metaboxes/rella-post.php:128 theme/metaboxes/rella-sidebars.php:26
+#: theme/metaboxes/rella-sliders.php:63
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:27
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:47
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:70
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:136
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:152
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:177
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:289
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:346
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:401
+#: theme/metaboxes/rella-title-wrapper.php:27
+#: theme/metaboxes/rella-title-wrapper.php:47
+#: theme/metaboxes/rella-title-wrapper.php:70
+#: theme/metaboxes/rella-title-wrapper.php:140
+#: theme/metaboxes/rella-title-wrapper.php:156
+#: theme/metaboxes/rella-title-wrapper.php:267
+#: theme/metaboxes/rella-title-wrapper.php:289
+#: theme/metaboxes/rella-title-wrapper.php:325
+#: theme/metaboxes/rella-title-wrapper.php:380
+#: theme/theme-options/rella-blog.php:610
+#: theme/theme-options/rella-general.php:125
+#: theme/theme-options/rella-header-layout.php:37
+#: theme/theme-options/rella-header-title-wrapper.php:106
+#: theme/theme-options/rella-header-title-wrapper.php:224
+#: theme/theme-options/rella-portfolio.php:65
+#: theme/theme-options/rella-portfolio.php:96
+msgid "Default"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:72
+msgid "Default Dark"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:73
+#: theme/metaboxes/rella-page.php:178 theme/theme-options/rella-general.php:126
+msgid "Style 2"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:80
+msgid "Badge"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:87
+msgid "Badge Style"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:89
+msgid "Style1"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:90
+msgid "Style2"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:98
+msgid "Icon"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:100
+msgid "No Icons"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:121
+msgid "Icon Position"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:123
+#: rella/vendors/woocommerce/options.php:59
+#: rella/vendors/woocommerce/options.php:107
+#: theme/metaboxes/rella-header-options.php:165
+#: theme/metaboxes/rella-portfolio-general.php:82
+#: theme/metaboxes/rella-sidebars.php:27
+#: theme/theme-options/rella-portfolio.php:97
+#: theme/theme-options/rella-portfolio.php:116
+#: theme/theme-options/rella-sidebars.php:52
+#: theme/theme-options/rella-sidebars.php:101
+#: theme/theme-options/rella-sidebars.php:139
+#: theme/theme-options/rella-sidebars.php:188
+#: theme/theme-options/rella-sidebars.php:226
+#: theme/theme-options/rella-sidebars.php:264
+msgid "Left"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:124
+#: theme/metaboxes/rella-header-options.php:167
+#: theme/metaboxes/rella-portfolio-general.php:83
+#: theme/theme-options/rella-portfolio.php:98
+#: theme/theme-options/rella-portfolio.php:117
+msgid "Center"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:125
+#: rella/vendors/woocommerce/options.php:60
+#: rella/vendors/woocommerce/options.php:108
+#: theme/metaboxes/rella-portfolio-general.php:84
+#: theme/metaboxes/rella-sidebars.php:28
+#: theme/theme-options/rella-portfolio.php:99
+#: theme/theme-options/rella-portfolio.php:118
+#: theme/theme-options/rella-sidebars.php:53
+#: theme/theme-options/rella-sidebars.php:102
+#: theme/theme-options/rella-sidebars.php:140
+#: theme/theme-options/rella-sidebars.php:189
+#: theme/theme-options/rella-sidebars.php:227
+#: theme/theme-options/rella-sidebars.php:265
+msgid "Right"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:133
+msgid "Make this item menu heading?"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:135
+#: theme/metaboxes/rella-header-options.php:155
+#: theme/metaboxes/rella-header-options.php:177
+#: theme/metaboxes/rella-header-options.php:187
+#: theme/metaboxes/rella-header-options.php:202
+#: theme/metaboxes/rella-header-options.php:217
+#: theme/theme-options/rella-blog.php:77 theme/theme-options/rella-blog.php:89
+#: theme/theme-options/rella-blog.php:118
+#: theme/theme-options/rella-blog.php:224
+#: theme/theme-options/rella-blog.php:236
+#: theme/theme-options/rella-blog.php:265
+#: theme/theme-options/rella-blog.php:372
+#: theme/theme-options/rella-blog.php:384
+#: theme/theme-options/rella-blog.php:413
+#: theme/theme-options/rella-blog.php:520
+#: theme/theme-options/rella-blog.php:532
+#: theme/theme-options/rella-blog.php:561
+#: theme/theme-options/rella-portfolio.php:374
+#: theme/theme-options/rella-portfolio.php:390
+#: theme/theme-options/rella-portfolio.php:402
+#: theme/theme-options/rella-portfolio.php:414
+msgid "No"
+msgstr ""
+
+#: rella/extensions/mega-menu/rella-mega-menu-edit.php:136
+#: theme/metaboxes/rella-header-options.php:156
+#: theme/metaboxes/rella-header-options.php:178
+#: theme/metaboxes/rella-header-options.php:188
+#: theme/metaboxes/rella-header-options.php:203
+#: theme/metaboxes/rella-header-options.php:218
+#: theme/theme-options/rella-blog.php:76 theme/theme-options/rella-blog.php:88
+#: theme/theme-options/rella-blog.php:117
+#: theme/theme-options/rella-blog.php:223
+#: theme/theme-options/rella-blog.php:235
+#: theme/theme-options/rella-blog.php:264
+#: theme/theme-options/rella-blog.php:371
+#: theme/theme-options/rella-blog.php:383
+#: theme/theme-options/rella-blog.php:412
+#: theme/theme-options/rella-blog.php:519
+#: theme/theme-options/rella-blog.php:531
+#: theme/theme-options/rella-blog.php:560
+#: theme/theme-options/rella-portfolio.php:375
+#: theme/theme-options/rella-portfolio.php:391
+#: theme/theme-options/rella-portfolio.php:403
+#: theme/theme-options/rella-portfolio.php:415
+msgid "Yes"
+msgstr ""
+
+#: rella/extensions/multiple-post-thumbnails/multiple-post-thumbnails.php:53
+#, php-format
+msgid ""
+"The 'label' and 'id' values of the 'args' parameter of '%s::%s()' are "
+"required"
+msgstr ""
+
+#: rella/extensions/multiple-post-thumbnails/multiple-post-thumbnails.php:135
+#, php-format
+msgid "Set as %3$s"
+msgstr ""
+
+#: rella/extensions/multiple-post-thumbnails/multiple-post-thumbnails.php:369
+#: rella/extensions/multiple-post-thumbnails/multiple-post-thumbnails.php:370
+#, php-format
+msgid "Set %s"
+msgstr ""
+
+#: rella/extensions/multiple-post-thumbnails/multiple-post-thumbnails.php:389
+#, php-format
+msgid "Remove %s"
+msgstr ""
+
+#: rella/extensions/multiple-post-thumbnails/multiple-post-thumbnails.php:450
+msgid "Product Secondary Image"
+msgstr ""
+
+#: rella/extensions/multiple-post-thumbnails/multiple-post-thumbnails.php:451
+msgid "Add second featured image to enable swap effect on hover"
+msgstr ""
+
+#: rella/extensions/redux-custom-fonts/redux-custom-fonts.php:77
+#: rella/extensions/redux-custom-fonts/redux-use-any-font.php:45
+#: theme/theme-options/rella-typography.php:216
+msgid "Custom Fonts"
+msgstr ""
+
+#: rella/extensions/redux-custom-icons/redux-custom-icons.php:105
+msgid "Rella Custom Icons"
+msgstr ""
+
+#: rella/extensions/redux-metaboxes/extension_metaboxes.php:816
+msgid "Options"
+msgstr ""
+
+#: rella/extensions/redux-metaboxes/extension_metaboxes.php:988
+msgid "Settings Imported!"
+msgstr ""
+
+#: rella/extensions/redux-metaboxes/extension_metaboxes.php:991
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: rella/extensions/redux-metaboxes/extension_metaboxes.php:995
+#: rella/extensions/redux-metaboxes/extension_metaboxes.php:1300
+msgid "error(s) were found!"
+msgstr ""
+
+#: rella/extensions/redux-metaboxes/extension_metaboxes.php:999
+msgid "warning(s) were found!"
+msgstr ""
+
+#: rella/extensions/redux-metaboxes/extension_metaboxes.php:1004
+#: templates/redux/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: rella/extensions/redux-metaboxes/extension_metaboxes.php:1306
+msgid "warnings(s) were found!"
+msgstr ""
+
+#: rella/extensions/redux-repeater/repeater/field_repeater.php:180
+#: rella/extensions/redux-repeater/repeater/field_repeater.php:223
+msgid "Delete"
+msgstr ""
+
+#: rella/extensions/redux-repeater/repeater/field_repeater.php:245
+msgid "Add"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:215
+msgid "Font Family"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:216
+msgid "Font family"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:242
+#: rella/extensions/redux-typography/field_typography.php:243
+msgid "Backup Font Family"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:257
+#: rella/extensions/redux-typography/field_typography.php:265
+msgid "Font style"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:258
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:265
+#: theme/metaboxes/rella-header-options.php:24
+#: theme/metaboxes/rella-post.php:23 theme/theme-options/rella-blog.php:46
+#: theme/theme-options/rella-blog.php:193
+#: theme/theme-options/rella-blog.php:341
+#: theme/theme-options/rella-blog.php:489
+#: theme/theme-options/rella-blog.php:608
+#: theme/theme-options/rella-portfolio.php:47
+msgid "Style"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:305
+msgid "Font subsets"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:307
+msgid "Font Subsets"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:309
+msgid "Subsets"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:309
+msgid "Font script"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:326
+#: rella/extensions/redux-typography/field_typography.php:327
+#: rella/extensions/redux-typography/field_typography.php:328
+msgid "Text Align"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:349
+#: rella/extensions/redux-typography/field_typography.php:350
+#: rella/extensions/redux-typography/field_typography.php:351
+#: rella/extensions/wp-editor/rella-wp-editor.php:63
+msgid "Text Transform"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:372
+#: rella/extensions/redux-typography/field_typography.php:373
+#: rella/extensions/redux-typography/field_typography.php:374
+msgid "Font Variant"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:392
+#: rella/extensions/redux-typography/field_typography.php:393
+#: rella/extensions/redux-typography/field_typography.php:394
+msgid "Text Decoration"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:416
+#: rella/extensions/redux-typography/field_typography.php:417
+msgid "Font Size"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:417
+msgid "Size"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:425
+#: rella/extensions/redux-typography/field_typography.php:426
+msgid "Line Height"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:426
+#: theme/metaboxes/rella-post-format.php:19
+msgid "Height"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:434
+#: rella/extensions/redux-typography/field_typography.php:435
+msgid "Word Spacing"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:443
+#: rella/extensions/redux-typography/field_typography.php:444
+msgid "Letter Spacing"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:462
+msgid "Font Color"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:464
+msgid "Font color"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:883
+msgid "Standard Fonts"
+msgstr ""
+
+#: rella/extensions/redux-typography/field_typography.php:984
+msgid "Google Webfonts"
+msgstr ""
+
+#: rella/extensions/wp-editor/rella-wp-editor.php:66
+msgid "Uppercase"
+msgstr ""
+
+#: rella/extensions/wp-editor/rella-wp-editor.php:71
+msgid "Lowercase"
+msgstr ""
+
+#: rella/extensions/wp-editor/rella-wp-editor.php:76
+msgid "Capitalize"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:316
+msgid "Install Required Plugins"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:317
+msgid "Install Plugins"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:319
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:321
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:322
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:325
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:331
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:337
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:360
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:365
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:370
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:374
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:375
+#: rella/libs/class-tgm-plugin-activation.php:828
+#: rella/libs/class-tgm-plugin-activation.php:2533
+#: rella/libs/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:376
+#: rella/libs/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:377
+#: rella/libs/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:381
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:383
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:384
+msgid "Dismiss this notice"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:385
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:386
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:503
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:504
+msgid "Update Required"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:621
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:935
+#: rella/libs/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:1122
+#: rella/libs/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3509
+#: rella/libs/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3509
+#: rella/libs/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: rella/libs/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: rella/libs/updater/theme-updater-admin.php:113
+#: rella/rella-edd-license.php:68
+#, php-format
+msgid "The %s license needs to be activated. %sActivate Now%s"
+msgstr ""
+
+#: rella/libs/updater/theme-updater-admin.php:119
+#: rella/rella-edd-license.php:74
+#, php-format
+msgid "License key invalid. Need a license? %sPurchase Now%s"
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:32
+msgid "Theme License"
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:33
+msgid "Enter your theme license key."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:34
+msgid "License Key"
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:35
+msgid "License Action"
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:36
+msgid "Deactivate License"
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:37
+msgid "Activate License"
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:38
+#: rella/libs/updater/theme-updater.php:50
+msgid "License status is unknown."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:39
+msgid "Renew?"
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:40
+msgid "unlimited"
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:41
+msgid "License key is active."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:42
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:43
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:44
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:45
+msgid "License key has expired."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:46
+msgid "License keys do not match."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:47
+msgid "License is inactive."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:48
+msgid "License key is disabled."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:49
+msgid "Site is inactive."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:51
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: rella/libs/updater/theme-updater.php:52
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: rella/rella-base.php:56
+#, php-format
+msgid ""
+"<strong>Extension Load Fail for:</strong> %1$s<br>No such file \"%2$s\" "
+"exists."
+msgstr ""
+
+#: rella/rella-base.php:56
+msgid "Load Extension"
+msgstr ""
+
+#: rella/rella-edd-license.php:132
+msgid "The license key is not valid"
+msgstr ""
+
+#: rella/rella-edd-license.php:136
+msgid "The license key is not active, please activate it"
+msgstr ""
+
+#: rella/rella-edd-license.php:140
+msgid "License key is saved"
+msgstr ""
+
+#: rella/rella-edd-license.php:173 rella/rella-edd-license.php:184
+msgid ""
+"There was an error activating the license, please verify your license is "
+"correct and try again or contact support."
+msgstr ""
+
+#: rella/rella-edd-license.php:218
+msgid ""
+"There was an error deactivating the license, please verify your license is "
+"correct and try again or contact support."
+msgstr ""
+
+#: rella/rella-edd-license.php:227
+msgid "License deactivated"
+msgstr ""
+
+#: rella/rella-edd-license.php:231
+msgid "Unable to deactivate license, please try again or contact support."
+msgstr ""
+
+#: rella/rella-helpers.php:112
+#, php-format
+msgid "<code>%s</code> does not exist."
+msgstr ""
+
+#: rella/rella-helpers.php:146
+msgctxt "Rella plugin installation page."
+msgid "Install"
+msgstr ""
+
+#: rella/rella-helpers.php:164
+msgctxt "Rella plugin installation page."
+msgid "Activate"
+msgstr ""
+
+#: rella/rella-helpers.php:181
+msgctxt "Rella plugin installation page."
+msgid "Deactivate"
+msgstr ""
+
+#: rella/rella-meta-boxes-init.php:70
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: rella/rella-theme-options-init.php:66 rella/rella-theme-options-init.php:67
+msgid "Theme Options"
+msgstr ""
+
+#: rella/structure/comments.php:70
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: rella/structure/footer.php:80
+msgid "Return to top of page"
+msgstr ""
+
+#: rella/structure/header.php:115
+msgid "Skip to primary navigation"
+msgstr ""
+
+#: rella/structure/header.php:118
+msgid "Skip to content"
+msgstr ""
+
+#: rella/structure/header.php:122
+msgid "Skip links"
+msgstr ""
+
+#: rella/structure/markup.php:68
+#, php-format
+msgctxt "nav menu aria label"
+msgid "%s"
+msgstr ""
+
+#: rella/structure/posts.php:136
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: rella/structure/posts.php:234
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ""
+
+#: rella/structure/posts.php:301
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: rella/structure/posts.php:304
+#, php-format
+msgid "Week %1$s of %2$s"
+msgstr ""
+
+#: rella/vendors/woocommerce/functions.php:76
+msgid "Payment"
+msgstr ""
+
+#: rella/vendors/woocommerce/functions.php:257
+msgid "Default Order"
+msgstr ""
+
+#: rella/vendors/woocommerce/functions.php:258
+msgid "Popularity"
+msgstr ""
+
+#: rella/vendors/woocommerce/functions.php:259
+msgid "Average rating"
+msgstr ""
+
+#: rella/vendors/woocommerce/functions.php:260
+msgid "Newness"
+msgstr ""
+
+#: rella/vendors/woocommerce/functions.php:261
+msgid "Lowest Price"
+msgstr ""
+
+#: rella/vendors/woocommerce/functions.php:262
+msgid "Highest Price"
+msgstr ""
+
+#: rella/vendors/woocommerce/metaboxes.php:23
+msgid "Custom label"
+msgstr ""
+
+#: rella/vendors/woocommerce/metaboxes.php:25
+msgid "Input a custom label for the product"
+msgstr ""
+
+#: rella/vendors/woocommerce/metaboxes.php:55
+#: rella/vendors/woocommerce/metaboxes.php:86
+msgid "Background Color"
+msgstr ""
+
+#: rella/vendors/woocommerce/metaboxes.php:58
+#: rella/vendors/woocommerce/metaboxes.php:88
+msgid "Select a background for product category label"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:9
+msgid "Products"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:16
+msgid "Activate Global Sidebar For Products"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:17
+msgid ""
+"Turn on if you want to use the same sidebars on all product posts. This "
+"option overrides the product options."
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:28
+msgid "Enable Sticky Sidebar For Products"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:29
+msgid ""
+"Turn on if you want to add sticky effect for sidebars on all products posts."
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:40
+msgid "Global Products Sidebar 1"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:41
+msgid "Select sidebar 1 that will display on all product posts."
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:48
+msgid "Global Products Sidebar 2"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:49
+msgid ""
+"Select sidebar 2 that will display on all product posts. Sidebar 2 can only "
+"be used if sidebar 1 is selected."
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:56
+msgid "Global Product Sidebar Position"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:57
+msgid ""
+"Controls the position of sidebar 1 for all product posts. If sidebar 2 is "
+"selected, it will display on the opposite side."
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:69
+msgid "Product Archive"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:76
+msgid "Enable Sticky Sidebar For Product Archive"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:77
+msgid ""
+"Turn on if you want to add sticky effect for sidebars on the product archive "
+"pages."
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:88
+msgid "Product Archive Sidebar 1"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:89
+msgid "Select sidebar 1 that will display on the product archive pages."
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:96
+msgid "Product Archive Sidebar 2"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:97
+msgid ""
+"Select sidebar 2 that will display on the product archive pages. Sidebar 2 "
+"can only be used if sidebar 1 is selected."
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:104
+msgid "Global Product Archive Sidebar Position"
+msgstr ""
+
+#: rella/vendors/woocommerce/options.php:105
+msgid ""
+"Controls the position of sidebar 1 for product archive pages. If sidebar 2 "
+"is selected, it will display on the opposite side."
+msgstr ""
+
+#: rella/vendors/woocommerce/template-tags.php:30
+msgid "Grid view"
+msgstr ""
+
+#: rella/vendors/woocommerce/template-tags.php:31
+msgid "List view"
+msgstr ""
+
+#: search.php:26 templates/author-layout.php:22 templates/blog-layout.php:22
+#: templates/category-layout.php:22 templates/portfolio-layout.php:22
+#: templates/tag-layout.php:22 theme/author-blog.php:206
+#: theme/category-blog.php:212 theme/tag-blog.php:206 theme/theme-blog.php:205
+#: theme/theme-portfolio.php:120
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: search.php:27 templates/author-layout.php:23 templates/blog-layout.php:23
+#: templates/category-layout.php:23 templates/portfolio-layout.php:23
+#: templates/tag-layout.php:23 theme/author-blog.php:207
+#: theme/category-blog.php:213 theme/tag-blog.php:207 theme/theme-blog.php:206
+#: theme/theme-portfolio.php:121
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: templates/archive-header.php:15 templates/header/header-title-bar.php:78
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: templates/blog/content.php:12
+msgid "Read More"
+msgstr ""
+
+#: templates/blog/single/cover.php:43 templates/blog/single/default.php:35
+#: templates/blog/single/minimal.php:38 templates/entry-meta.php:11
+msgid "0 Opinions"
+msgstr ""
+
+#: templates/blog/single/cover.php:43 templates/blog/single/default.php:35
+#: templates/blog/single/minimal.php:38 templates/entry-meta.php:11
+msgid "1 Opinion"
+msgstr ""
+
+#: templates/blog/single/cover.php:52 templates/blog/single/default.php:45
+msgid ", "
+msgstr ""
+
+#: templates/blog/single/cover.php:61 templates/blog/single/default.php:56
+#: templates/blog/single/part-media.php:59
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: templates/blog/single/cover.php:74 templates/blog/single/default.php:65
+#: templates/blog/single/minimal.php:47 templates/content/content.php:32
+#: theme/theme-template-tags.php:762 theme/theme-template-tags.php:790
+#: theme/theme-template-tags.php:811
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: templates/blog/single/cover.php:79 templates/blog/single/default.php:70
+#: templates/blog/single/minimal.php:52 templates/content/content.php:37
+#: templates/content/page.php:21 templates/content/rella-portfolio.php:21
+msgid "Pages:"
+msgstr ""
+
+#: templates/blog/single/cover.php:83 templates/blog/single/default.php:74
+#: templates/blog/single/minimal.php:56 templates/content/content.php:41
+#: templates/content/page.php:25 templates/content/rella-portfolio.php:25
+#: templates/loop-nav.php:14 theme/metaboxes/rella-page.php:16
+#: theme/theme-options/rella-sidebars.php:13
+msgid "Page"
+msgstr ""
+
+#: templates/blog/single/navigation.php:36
+msgid "Post navigation"
+msgstr ""
+
+#: templates/blog/single/part-author.php:19
+msgid "About Author"
+msgstr ""
+
+#: templates/blog/tmpl-classic-date-featured.php:62
+#: templates/blog/tmpl-classic-image-large.php:52
+#: templates/blog/tmpl-classic-image-medium.php:51
+#: templates/blog/tmpl-featured-title.php:51 templates/blog/tmpl-masonry.php:49
+#: templates/blog/tmpl-no-image.php:30 templates/blog/tmpl-post-no-image.php:61
+#: templates/blog/tmpl-puzzle.php:1 templates/blog/tmpl-split.php:1
+#: templates/content/content.php:72
+msgid "Continue Reading"
+msgstr ""
+
+#: templates/comment/comment.php:6
+msgid "Post comment"
+msgstr ""
+
+#: templates/comment/comment.php:21 templates/comment/ping.php:7
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: templates/comment/comment.php:27 templates/comment/ping.php:9
+msgid "Permalink"
+msgstr ""
+
+#: templates/comment/nav.php:5
+msgid "Comments Navigation"
+msgstr ""
+
+#: templates/comment/nav.php:8
+msgid "Older Comments"
+msgstr ""
+
+#: templates/comment/nav.php:12
+msgid "Newer Comments"
+msgstr ""
+
+#: templates/content/content.php:49
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: templates/content/content.php:51
+#, php-format
+msgid "Tagged %s"
+msgstr ""
+
+#: templates/content/error.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/content/error.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/content/error.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/content/error.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: templates/content/rella-portfolio.php:32
+msgid "Edit"
+msgstr ""
+
+#: templates/footer/default.php:18
+msgid "&copy; 2017 Boo Theme. All rights reserved."
+msgstr ""
+
+#: templates/header/default.php:45 templates/header/header-search.php:19
+#: woocommerce/cart/header-mini-cart.php:43 woocommerce/wishlist-header.php:33
+msgid "Toggle navigation"
+msgstr ""
+
+#: templates/header/header-login.php:24
+msgid "Howdy, "
+msgstr ""
+
+#: templates/header/header-login.php:28
+msgid "Log Out"
+msgstr ""
+
+#: templates/header/header-login.php:49
+msgid "Login"
+msgstr ""
+
+#: templates/header/header-login.php:51
+msgid "Forgot Password?"
+msgstr ""
+
+#: templates/header/header-search-fullscreen.php:27
+#: templates/header/header-search-ghost.php:34
+#: templates/header/header-search-offcanvas.php:44
+#: templates/header/header-search-simple.php:16
+#: templates/header/header-search.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: templates/header/header-search-fullscreen.php:28
+#: templates/header/header-search-ghost.php:35
+#: templates/header/header-search-offcanvas.php:45
+msgctxt "placeholder"
+msgid "type and hit enter"
+msgstr ""
+
+#: templates/header/header-search-simple.php:17
+#: templates/header/header-search.php:14
+msgctxt "placeholder"
+msgid "search your infinite universe"
+msgstr ""
+
+#: templates/header/header-title-bar.php:70
+#: theme/theme-options/rella-blog.php:7
+#: theme/theme-vc-templates-panel-editor.php:72
+msgid "Blog"
+msgstr ""
+
+#: templates/header/header-title-bar.php:108
+msgid "Archive"
+msgstr ""
+
+#: templates/loop-nav.php:4
+msgid "Previous Post: %link"
+msgstr ""
+
+#: templates/loop-nav.php:5
+msgid "Next Post: %link"
+msgstr ""
+
+#: templates/loop-nav.php:12
+msgctxt "posts navigation"
+msgid "Previous page"
+msgstr ""
+
+#: templates/loop-nav.php:13
+msgctxt "posts navigation"
+msgid "Next page"
+msgstr ""
+
+#: templates/portfolio/partial-filters.php:56
+#: theme/theme-options/rella-portfolio.php:259
+#: theme/theme-template-tags.php:602
+msgid "Date"
+msgstr ""
+
+#: templates/portfolio/partial-filters.php:67
+msgid "Desc"
+msgstr ""
+
+#: templates/portfolio/partial-filters.php:70
+msgid "Asc"
+msgstr ""
+
+#: templates/portfolio/single/before-after.php:6
+#: templates/portfolio/single/featured-image.php:6
+#: templates/portfolio/single/gallery-slider-2.php:6
+#: templates/portfolio/single/gallery-slider-3.php:6
+#: templates/portfolio/single/gallery-slider.php:14
+#: templates/portfolio/single/gallery-stacked-2.php:6
+#: templates/portfolio/single/gallery-stacked-4.php:6
+#: templates/portfolio/single/gallery-stacked-5.php:6
+#: templates/portfolio/single/gallery-stacked.php:6
+#: templates/portfolio/single/masonry.php:6
+#: theme/metaboxes/rella-portfolio-meta.php:198
+msgid "Launch"
+msgstr ""
+
+#: templates/portfolio/single/before-after.php:73
+msgid "Original"
+msgstr ""
+
+#: templates/portfolio/single/before-after.php:77
+msgid "Modified"
+msgstr ""
+
+#: templates/portfolio/single/before-after.php:105
+#: templates/portfolio/single/custom.php:30
+#: templates/portfolio/single/gallery-slider.php:93
+#: templates/portfolio/single/gallery-stacked-3.php:33
+#: templates/portfolio/single/gallery-stacked-4.php:81
+#: theme/theme-template-tags.php:866
+msgid "Share"
+msgstr ""
+
+#: templates/portfolio/single/gallery-stacked-6.php:6
+msgid "See Details"
+msgstr ""
+
+#: templates/portfolio/single/gallery-stacked-6.php:39
+msgid "Details"
+msgstr ""
+
+#: templates/portfolio/single/navigation.php:36
+msgid "Prev"
+msgstr ""
+
+#: templates/portfolio/single/navigation.php:53
+msgid "Next"
+msgstr ""
+
+#: templates/redux/footer.tpl.php:57
+#: templates/redux/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: templates/redux/footer.tpl.php:62
+#: templates/redux/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr ""
+
+#: templates/redux/footer.tpl.php:64
+#: templates/redux/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr ""
+
+#: templates/redux/footer.tpl.php:69
+#: templates/redux/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr ""
+
+#: templates/redux/header.tpl.php:11 templates/redux/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: templates/redux/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: templates/redux/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: templates/redux/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: templates/redux/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: templates/redux/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: templates/redux/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: templates/vc/vc_section.php:212
+msgid "Back"
+msgstr ""
+
+#: theme/metaboxes/rella-content.php:16
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:100
+#: theme/metaboxes/rella-title-wrapper.php:100
+#: theme/theme-options/rella-header-title-wrapper.php:63
+msgid "Content"
+msgstr ""
+
+#: theme/metaboxes/rella-content.php:17
+msgid "Change the content section configuration."
+msgstr ""
+
+#: theme/metaboxes/rella-content.php:23 theme/metaboxes/rella-page.php:111
+#: theme/theme-options/rella-layout.php:103
+msgid "Content Padding"
+msgstr ""
+
+#: theme/metaboxes/rella-content.php:24
+msgid "Select desired padding for the content"
+msgstr ""
+
+#: theme/metaboxes/rella-content.php:27
+msgid "No padding"
+msgstr ""
+
+#: theme/metaboxes/rella-content.php:28
+msgid "Only padding top"
+msgstr ""
+
+#: theme/metaboxes/rella-content.php:29
+msgid "Only padding bottom"
+msgstr ""
+
+#: theme/metaboxes/rella-footer-options.php:16
+msgid "Design Options"
+msgstr ""
+
+#: theme/metaboxes/rella-footer-options.php:23
+msgid "Fixed Footer"
+msgstr ""
+
+#: theme/metaboxes/rella-footer-options.php:24
+msgid "If on, this footer will be fixed"
+msgstr ""
+
+#: theme/metaboxes/rella-footer-options.php:26
+#: theme/metaboxes/rella-header.php:26 theme/metaboxes/rella-page.php:127
+#: theme/metaboxes/rella-page.php:144 theme/metaboxes/rella-page.php:189
+#: theme/metaboxes/rella-portfolio-meta.php:26
+#: theme/metaboxes/rella-portfolio-meta.php:39
+#: theme/metaboxes/rella-portfolio-meta.php:52
+#: theme/metaboxes/rella-portfolio-meta.php:94
+#: theme/metaboxes/rella-portfolio-meta.php:107
+#: theme/metaboxes/rella-portfolio-meta.php:157
+#: theme/metaboxes/rella-post-format.php:73 theme/metaboxes/rella-post.php:37
+#: theme/metaboxes/rella-post.php:62 theme/metaboxes/rella-post.php:75
+#: theme/metaboxes/rella-post.php:88 theme/metaboxes/rella-post.php:101
+#: theme/metaboxes/rella-post.php:114 theme/metaboxes/rella-post.php:127
+#: theme/metaboxes/rella-sidebars.php:43
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:26
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:46
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:151
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:176
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:310
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:345
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:400
+#: theme/metaboxes/rella-title-wrapper.php:26
+#: theme/metaboxes/rella-title-wrapper.php:46
+#: theme/metaboxes/rella-title-wrapper.php:155
+#: theme/metaboxes/rella-title-wrapper.php:288
+#: theme/metaboxes/rella-title-wrapper.php:324
+#: theme/metaboxes/rella-title-wrapper.php:379
+#: theme/theme-options/rella-blog.php:22 theme/theme-options/rella-blog.php:168
+#: theme/theme-options/rella-blog.php:316
+#: theme/theme-options/rella-blog.php:464
+#: theme/theme-options/rella-blog.php:623
+#: theme/theme-options/rella-blog.php:650
+#: theme/theme-options/rella-blog.php:662
+#: theme/theme-options/rella-blog.php:674
+#: theme/theme-options/rella-blog.php:686
+#: theme/theme-options/rella-blog.php:698
+#: theme/theme-options/rella-blog.php:710
+#: theme/theme-options/rella-header-title-wrapper.php:18
+#: theme/theme-options/rella-header-title-wrapper.php:213
+#: theme/theme-options/rella-header-title-wrapper.php:262
+#: theme/theme-options/rella-page-search.php:29
+#: theme/theme-options/rella-portfolio.php:22
+#: theme/theme-options/rella-portfolio.php:463
+#: theme/theme-options/rella-portfolio.php:475
+#: theme/theme-options/rella-portfolio.php:486
+#: theme/theme-options/rella-portfolio.php:498
+#: theme/theme-options/rella-portfolio.php:523
+#: theme/theme-options/rella-promotions.php:24
+#: theme/theme-options/rella-typography.php:104
+#: theme/theme-options/rella-woocommerce.php:19
+#: theme/theme-options/rella-woocommerce.php:57
+msgid "On"
+msgstr ""
+
+#: theme/metaboxes/rella-footer-options.php:27
+#: theme/metaboxes/rella-header.php:28 theme/metaboxes/rella-page.php:128
+#: theme/metaboxes/rella-page.php:145 theme/metaboxes/rella-page.php:190
+#: theme/metaboxes/rella-portfolio-meta.php:28
+#: theme/metaboxes/rella-portfolio-meta.php:41
+#: theme/metaboxes/rella-portfolio-meta.php:54
+#: theme/metaboxes/rella-portfolio-meta.php:96
+#: theme/metaboxes/rella-portfolio-meta.php:108
+#: theme/metaboxes/rella-portfolio-meta.php:159
+#: theme/metaboxes/rella-post-format.php:74 theme/metaboxes/rella-post.php:39
+#: theme/metaboxes/rella-post.php:64 theme/metaboxes/rella-post.php:77
+#: theme/metaboxes/rella-post.php:90 theme/metaboxes/rella-post.php:103
+#: theme/metaboxes/rella-post.php:116 theme/metaboxes/rella-post.php:129
+#: theme/metaboxes/rella-sidebars.php:44
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:28
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:48
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:153
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:178
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:311
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:347
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:402
+#: theme/metaboxes/rella-title-wrapper.php:28
+#: theme/metaboxes/rella-title-wrapper.php:48
+#: theme/metaboxes/rella-title-wrapper.php:157
+#: theme/metaboxes/rella-title-wrapper.php:290
+#: theme/metaboxes/rella-title-wrapper.php:326
+#: theme/metaboxes/rella-title-wrapper.php:381
+#: theme/theme-options/rella-blog.php:23 theme/theme-options/rella-blog.php:169
+#: theme/theme-options/rella-blog.php:317
+#: theme/theme-options/rella-blog.php:465
+#: theme/theme-options/rella-blog.php:624
+#: theme/theme-options/rella-blog.php:651
+#: theme/theme-options/rella-blog.php:663
+#: theme/theme-options/rella-blog.php:675
+#: theme/theme-options/rella-blog.php:687
+#: theme/theme-options/rella-blog.php:699
+#: theme/theme-options/rella-blog.php:711
+#: theme/theme-options/rella-header-title-wrapper.php:19
+#: theme/theme-options/rella-header-title-wrapper.php:214
+#: theme/theme-options/rella-header-title-wrapper.php:263
+#: theme/theme-options/rella-page-search.php:30
+#: theme/theme-options/rella-portfolio.php:23
+#: theme/theme-options/rella-portfolio.php:464
+#: theme/theme-options/rella-portfolio.php:476
+#: theme/theme-options/rella-portfolio.php:487
+#: theme/theme-options/rella-portfolio.php:499
+#: theme/theme-options/rella-portfolio.php:524
+#: theme/theme-options/rella-promotions.php:25
+#: theme/theme-options/rella-typography.php:105
+#: theme/theme-options/rella-woocommerce.php:20
+#: theme/theme-options/rella-woocommerce.php:58
+msgid "Off"
+msgstr ""
+
+#: theme/metaboxes/rella-footer-options.php:35
+msgid "Text Color"
+msgstr ""
+
+#: theme/metaboxes/rella-footer-options.php:41
+msgid "Link Color"
+msgstr ""
+
+#: theme/metaboxes/rella-footer-options.php:48
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:276
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:320
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:332
+#: theme/metaboxes/rella-title-wrapper.php:254
+#: theme/metaboxes/rella-title-wrapper.php:299
+#: theme/metaboxes/rella-title-wrapper.php:311
+#: theme/theme-options/rella-header-title-wrapper.php:195
+#: theme/theme-options/rella-header-title-wrapper.php:238
+#: theme/theme-options/rella-header-title-wrapper.php:249
+#: theme/theme-options/rella-page-404.php:103
+#: theme/theme-options/rella-page-404.php:114
+#: theme/theme-options/rella-page-404.php:125
+#: theme/theme-options/rella-page-maintenance.php:131
+#: theme/theme-options/rella-page-maintenance.php:143
+#: theme/theme-options/rella-page-maintenance.php:155
+msgid "Background"
+msgstr ""
+
+#: theme/metaboxes/rella-footer-options.php:54
+msgid "Padding"
+msgstr ""
+
+#: theme/metaboxes/rella-footer.php:16 theme/theme-options/rella-footer.php:7
+msgid "Footer"
+msgstr ""
+
+#: theme/metaboxes/rella-footer.php:23 theme/theme-options/rella-footer.php:19
+msgid "Enable Footer"
+msgstr ""
+
+#: theme/metaboxes/rella-footer.php:24
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:24
+#: theme/metaboxes/rella-title-wrapper.php:24
+#: theme/theme-options/rella-footer.php:20
+#: theme/theme-options/rella-header-layout.php:15
+#: theme/theme-options/rella-header-title-wrapper.php:16
+#: theme/theme-options/rella-page-404.php:15
+#: theme/theme-options/rella-preheader.php:16
+msgid "If on, this layout part will be displayed."
+msgstr ""
+
+#: theme/metaboxes/rella-footer.php:36
+msgid "Footer Template"
+msgstr ""
+
+#: theme/metaboxes/rella-footer.php:37
+msgid ""
+"Select which footer displays on this page, this footer override the default "
+"footer."
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:17
+msgid "Menu Design Options"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:27
+#: theme/theme-options/rella-header-title-wrapper.php:73
+msgid "Overlay"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:34
+#: theme/metaboxes/rella-header.php:78 theme/metaboxes/rella-header.php:92
+#: theme/theme-options/rella-header-menu.php:14
+msgid "Menus Typography"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:35
+#: theme/metaboxes/rella-header-options.php:74
+#: theme/metaboxes/rella-header.php:79 theme/metaboxes/rella-header.php:93
+#: theme/theme-options/rella-header-menu.php:15
+#: theme/theme-options/rella-header-menu.php:53
+msgid "These settings control the typography for all menus."
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:47
+#: theme/theme-options/rella-header-menu.php:28
+msgid "Mobile Menus Typography"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:48
+#: theme/metaboxes/rella-header-options.php:93
+#: theme/theme-options/rella-header-menu.php:29
+#: theme/theme-options/rella-header-menu.php:72
+msgid "These settings control the typography for mobile menu."
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:61
+#: theme/theme-options/rella-header-menu.php:42
+msgid "Typography for Child Menus"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:73
+#: theme/theme-options/rella-header-menu.php:52
+msgid "Child Menus Typography"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:92
+#: theme/theme-options/rella-header-menu.php:71
+msgid "Mobile Child Menus Typography"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:110
+#: theme/theme-options/rella-header-menu.php:89
+msgid "Main Color"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:116
+#: theme/theme-options/rella-header-menu.php:95
+msgid "Secondary Color"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:122
+#: theme/theme-options/rella-header-menu.php:101
+msgid "Active Color"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:129
+msgid "Menu Item Spacing"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:141
+msgid "Logo Spacing"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:153
+msgid "Enable parent links on mobile menu"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:163
+msgid "Mobile Logo Alignment"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:166
+msgid "Left Edge"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:174
+msgid "Enable Modules on Mobile Header"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:175
+msgid ""
+"Select Yes to display desktop header modules in header of the mobile version "
+"also ( works only for cart/search/language switcher modules )"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:184
+msgid "Show Search Module on Mobile Header"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:185
+msgid ""
+"Select Yes to display search header module in the header of the mobile "
+"version"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:199
+msgid "Show Cart Module on Mobile Header"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:200
+msgid ""
+"Select Yes to display cart header module in the header of the mobile version"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:214
+msgid "Show Language Module on Mobile Header"
+msgstr ""
+
+#: theme/metaboxes/rella-header-options.php:215
+msgid ""
+"Select Yes to display language header module in the header of the mobile "
+"version"
+msgstr ""
+
+#: theme/metaboxes/rella-header.php:16 theme/theme-options/rella-header.php:7
+msgid "Header"
+msgstr ""
+
+#: theme/metaboxes/rella-header.php:23
+msgid "Display Header"
+msgstr ""
+
+#: theme/metaboxes/rella-header.php:24
+msgid "Choose to show or hide the header."
+msgstr ""
+
+#: theme/metaboxes/rella-header.php:36
+#: theme/theme-options/rella-page-search.php:14
+msgid "Header Template"
+msgstr ""
+
+#: theme/metaboxes/rella-header.php:37
+msgid ""
+"Select which header displays on this page, this header override the default "
+"header."
+msgstr ""
+
+#: theme/metaboxes/rella-header.php:53
+msgid "Header Position"
+msgstr ""
+
+#: theme/metaboxes/rella-header.php:54
+msgid ""
+"Select position for overlay header in titlebar, works only if titlebar is "
+"enabled and header is overlay style"
+msgstr ""
+
+#: theme/metaboxes/rella-header.php:57
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:138
+#: theme/metaboxes/rella-title-wrapper.php:142
+#: theme/theme-options/rella-header-title-wrapper.php:74
+msgid "Bottom"
+msgstr ""
+
+#: theme/metaboxes/rella-header.php:70
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: theme/metaboxes/rella-header.php:71
+msgid ""
+"Select which menu displays on this page, this menu override the header menu "
+"set at primary location."
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:23 theme/theme-options/rella-layout.php:15
+msgid "Layout width"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:24 theme/theme-options/rella-layout.php:16
+msgid "Controls the site layout width"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:26 theme/theme-options/rella-layout.php:18
+msgid "Boxed"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:28 theme/theme-options/rella-layout.php:20
+msgid "Wide - 1270px"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:37 theme/theme-options/rella-layout.php:29
+msgid "Body Background Type"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:53 theme/theme-options/rella-layout.php:45
+msgid "Body Background"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:65 theme/theme-options/rella-layout.php:57
+msgid "Body Background Gradient"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:77 theme/theme-options/rella-layout.php:69
+msgid "Content Background Type"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:88 theme/theme-options/rella-layout.php:80
+msgid "Content Background"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:100 theme/theme-options/rella-layout.php:92
+msgid "Content Background Gradient"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:124
+msgid "Enable Fullpage"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:125
+msgid ""
+"Enable to create row fullscreen with snap scroll navigation on right side"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:136
+msgid "Enable Fullpage Parallax"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:137
+msgid "Enable parallax effect for fullpage sections"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:153
+msgid "Header visibility"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:154
+msgid "Choose header can be visible always or only on first section."
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:161
+msgid "Always visible"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:162
+msgid "Only visible on first section"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:169
+msgid "Fullpage navigation style"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:170
+msgid "Choose the nav for autogenerated navigation by fullpage"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:177
+msgid "Style 1"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:179 theme/theme-options/rella-general.php:127
+msgid "Style 3"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:186
+#: theme/theme-options/rella-promotions.php:21
+msgid "Enable Promo boxes"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:187
+#: theme/theme-options/rella-promotions.php:22
+msgid "Enable to show promo boxes"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:198
+#: theme/theme-options/rella-promotions.php:33
+msgid "Promo boxes positions"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:214
+#: theme/theme-options/rella-promotions.php:49
+msgid "Top Promo box content"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:215
+#: theme/theme-options/rella-promotions.php:50
+msgid "Select which promobox content post to display"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:231
+#: theme/theme-options/rella-promotions.php:66
+msgid "In post Promo box content"
+msgstr ""
+
+#: theme/metaboxes/rella-page.php:232
+#: theme/theme-options/rella-promotions.php:67
+msgid ""
+"Select which promobox content post to display (works for single post only, "
+"and display after the Author Bio section)"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:17
+msgid "Portfolio Description"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:30
+msgid "Portfolio General"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:37
+msgid "Portfolio Item Style"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:38
+msgid "Select a template for this portfolio item."
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:40
+msgid "Before - After"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:41
+msgid "Featured Image"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:42
+msgid "List"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:43
+msgid "List 2"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:44
+msgid "Dark Caption"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:45
+msgid "Zig Zag"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:46
+#: theme/theme-options/rella-blog.php:56 theme/theme-options/rella-blog.php:203
+#: theme/theme-options/rella-blog.php:351
+#: theme/theme-options/rella-blog.php:499
+#: theme/theme-options/rella-portfolio.php:50
+msgid "Grid"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:47
+msgid "Info Box"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:48
+#: theme/theme-vc-templates.php:2880
+msgid "Carousel"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:49
+msgid "Classic Slider"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:50
+msgid "Classic Slider 2"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:51
+msgid "Thumb Gallery"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:52
+#: theme/theme-options/rella-blog.php:57 theme/theme-options/rella-blog.php:204
+#: theme/theme-options/rella-blog.php:352
+#: theme/theme-options/rella-blog.php:500
+#: theme/theme-options/rella-portfolio.php:51
+msgid "Masonry"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:53
+msgid "Custom"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:60
+#: theme/theme-options/rella-portfolio.php:130
+msgid "Columns"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:61
+msgid "Select how many columns per row in masonry gallery"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:63
+msgid "2 columns"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:64
+msgid "3 columns"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:65
+msgid "4 columns"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:78
+msgid "Portfolio Content Alignment"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:79
+msgid "Content alignment on Classic portfolio listing page"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:85
+#: theme/theme-options/rella-portfolio.php:100
+msgid "Inside Left"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:86
+#: theme/theme-options/rella-portfolio.php:101
+msgid "Inside Center"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:87
+#: theme/theme-options/rella-portfolio.php:102
+msgid "Inside Right"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:95
+msgid "Select desired width for the portfolio item on portfolio listing page"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:97
+msgid "Auto - width determined by thumbnail width"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:98
+msgid "2 columns - 1/6"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:99
+msgid "3 columns - 1/4"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:100
+msgid "4 columns - 1/3"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:101
+msgid "5 columns - 5/12"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:102
+msgid "6 columns - 1/2"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:103
+msgid "7 columns - 7/12"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:104
+msgid "8 columns - 2/3"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:105
+msgid "9 columns - 3/4"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:106
+msgid "10 columns - 5/6"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:107
+msgid "11 columns - 11/12"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:108
+msgid "12 columns - 12/12"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:116
+msgid "Before Image"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:129
+msgid "After Image"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:141
+msgid "Thumbnail Sizes"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:142
+msgid "Select a portfolio thumbnail size"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:145
+msgid "Default - (480px x 480px)"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:146
+msgid "Square - (285px x 285px)"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:147
+msgid "Big Square - (570px x 570px)"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:148
+msgid "Portrait - (285px x 570px)"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:149
+msgid "Portrait 2 - (570px x 1140px)"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:150
+msgid "Packery Portrait - (570px x 867px)"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:151
+msgid "Wide - (570px x 285px)"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:153
+msgid "Full - 3 columns"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:154
+msgid "Full - 4 columns"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:155
+msgid "Full - 6 columns"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:156
+msgid "Full - 8 columns"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:164
+msgid "Caption Position"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:165
+msgid "Select a position for caption (Used in Masonry style)"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:167
+msgid "Top Left"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:168
+msgid "Top Right"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:169
+msgid "Bottom Left"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-general.php:170
+msgid "Bottom Right"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:16
+msgid "Portfolio Meta"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:23
+#: theme/metaboxes/rella-post.php:59 theme/theme-options/rella-blog.php:647
+#: theme/theme-options/rella-portfolio.php:460
+msgid "Like Button"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:24
+#: theme/theme-options/rella-portfolio.php:461
+msgid "Turn on to display the like button on single portfolio posts."
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:36
+#: theme/metaboxes/rella-post.php:72 theme/theme-options/rella-blog.php:659
+#: theme/theme-options/rella-portfolio.php:472
+msgid "Social Sharing Box"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:37
+#: theme/theme-options/rella-portfolio.php:473
+msgid "Turn on to display the social sharing box on single portfolio posts."
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:49
+#: theme/metaboxes/rella-post.php:111 theme/theme-options/rella-blog.php:695
+msgid "Previous/Next Pagination"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:50
+#: theme/theme-options/rella-portfolio.php:496
+msgid ""
+"Turn on to display the previous/next post pagination for single portfolio "
+"posts."
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:62
+msgid "Color Scheme for navigation"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:63
+msgid "Select a color scheme for portfolio navigation"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:65
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:71
+#: theme/metaboxes/rella-title-wrapper.php:71
+msgid "Light"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:66
+msgid "Dark"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:78
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:161
+#: theme/theme-options/rella-portfolio.php:507
+msgid "Portfolio Archive URL"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:79
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:162
+#: theme/theme-options/rella-portfolio.php:508
+msgid ""
+"Custom link to portfolio page on navigation, leave blank to link to the "
+"default portfolio archive"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:91
+#: theme/metaboxes/rella-post.php:124 theme/theme-options/rella-blog.php:707
+#: theme/theme-options/rella-portfolio.php:520
+msgid "Related Projects"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:92
+#: theme/theme-options/rella-portfolio.php:521
+msgid "Turn on to display related projects on single portfolio posts."
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:104
+msgid "Enable 3D effect?"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:105
+msgid ""
+"Turn on to enable 3D effect for related portfolio posts. Note: Doesn't work "
+"if more than 4 items."
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:121
+#: theme/metaboxes/rella-post.php:137 theme/theme-options/rella-blog.php:719
+#: theme/theme-options/rella-portfolio.php:532
+msgid "Related Project Title"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:133
+#: theme/metaboxes/rella-post.php:149 theme/theme-options/rella-blog.php:731
+#: theme/theme-options/rella-portfolio.php:544
+msgid "Number of Related Projects"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:134
+#: theme/theme-options/rella-portfolio.php:545
+msgid ""
+"Controls the number of projects that display under related project section."
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:148
+msgid "The Attributes of the portfolio item"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:154
+msgid "Show Date"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:155
+msgid "Turn on to display published or custom date of the portfolio item"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:167
+msgid "Date Label"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:178
+msgid "Project Date"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:179
+msgid "Will overrite the published date of the portfolio post"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:191
+msgid "External Url"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:197
+msgid "Button Label"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:204
+#: theme/theme-options/rella-portfolio.php:242
+msgid "Client"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:205
+msgid "Will display in portfolio listing"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:211
+msgid "Portfolio attributes"
+msgstr ""
+
+#: theme/metaboxes/rella-portfolio-meta.php:212
+msgid ""
+"Add custom portfolio attributes. Divide by | label with value ( Label | "
+"Value )"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:9
+#: theme/theme-options/rella-blog.php:58 theme/theme-options/rella-blog.php:205
+#: theme/theme-options/rella-blog.php:353
+#: theme/theme-options/rella-blog.php:501
+msgid "Masonry Creative"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:22
+msgid "Tall"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:30
+msgid "Width"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:33
+msgid "Stretch"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:43
+msgid "Audio"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:52
+msgid "Audio URL"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:53
+msgid "Audio file URL in format: mp3, ogg, wav."
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:61
+msgid "Gallery"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:70
+msgid "Lightbox?"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:71
+msgid "Enable lightbox for gallery images"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:82
+msgid "Gallery Slider"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:83
+msgid "Upload images or add from media library."
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:85
+#: theme/theme-options/rella-page-maintenance.php:173
+#: theme/theme-options/rella-portfolio.php:182
+msgid "Title"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:99
+msgid "Link"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:108
+msgid "URL"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:116
+msgid "Quote"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:124
+msgid "Cite"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:132
+msgid "Video"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:141
+msgid "Video URL"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:142
+msgid "YouTube or Vimeo video URL"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:148
+msgid "Video Upload"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:149
+msgid "Upload video file"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:155
+msgid "Embadded video"
+msgstr ""
+
+#: theme/metaboxes/rella-post-format.php:156
+msgid "Use this option when the video does not come from YouTube or Vimeo"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:16
+msgid "Post Options"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:26 theme/theme-options/rella-blog.php:611
+msgid "Cover"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:27 theme/theme-options/rella-blog.php:612
+msgid "Minimal"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:34 theme/theme-options/rella-blog.php:620
+msgid "Enable Parallax"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:35 theme/theme-options/rella-blog.php:621
+msgid "Turn on parallax effect on post cover image"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:52
+msgid "Post time to read"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:53
+msgid "Advert your visitors how much time to read this post"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:60 theme/theme-options/rella-blog.php:648
+msgid "Turn on to display the like button on single posts."
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:73 theme/theme-options/rella-blog.php:660
+msgid "Turn on to display the social sharing box on single posts."
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:85 theme/theme-options/rella-blog.php:671
+msgid "Social Floated Box"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:86 theme/theme-options/rella-blog.php:672
+msgid "Turn on to display the social floated sharing box on single posts."
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:98 theme/theme-options/rella-blog.php:683
+msgid "Author Info Box"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:99 theme/theme-options/rella-blog.php:684
+msgid "Turn on to display the author info box below posts."
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:112 theme/theme-options/rella-blog.php:696
+msgid "Turn on to display the previous/next post pagination for single posts."
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:125 theme/theme-options/rella-blog.php:708
+msgid "Turn on to display related projects on single posts."
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:150 theme/theme-options/rella-blog.php:732
+msgid "Controls the number of posts that display under related posts section."
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:163
+msgid "Rating"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:164
+msgid "Select a rating"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:195
+msgid "Post background color"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:196
+msgid "Used for some latest posts templates"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:203
+msgid "Post gradient background color"
+msgstr ""
+
+#: theme/metaboxes/rella-post.php:204
+msgid "Used in 3d style in latest posts shortcode"
+msgstr ""
+
+#: theme/metaboxes/rella-sidebars.php:8
+#: theme/theme-options/rella-sidebars.php:7
+msgid "Sidebars"
+msgstr ""
+
+#: theme/metaboxes/rella-sidebars.php:15
+msgid "Select Sidebar"
+msgstr ""
+
+#: theme/metaboxes/rella-sidebars.php:16
+msgid ""
+"Select sidebar that will display on this page. Choose \"No Sidebar\" for "
+"full width."
+msgstr ""
+
+#: theme/metaboxes/rella-sidebars.php:17
+msgid "No Sidebar"
+msgstr ""
+
+#: theme/metaboxes/rella-sidebars.php:17 theme/theme-setup.php:85
+msgid "Main Sidebar"
+msgstr ""
+
+#: theme/metaboxes/rella-sidebars.php:23
+msgid "Sidebar Position"
+msgstr ""
+
+#: theme/metaboxes/rella-sidebars.php:24
+msgid ""
+"Select the sidebar position. If sidebar 2 is selected, it will display on "
+"the opposite side. "
+msgstr ""
+
+#: theme/metaboxes/rella-sidebars.php:40
+msgid "Sticky Sidebar?"
+msgstr ""
+
+#: theme/metaboxes/rella-sidebars.php:41
+msgid "Enable on to make Sidebar fixed"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:8
+msgid "Sliders"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:15
+msgid "Slider Type"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:16
+msgid "Select the type of slider that displays."
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:18
+msgid "No Slider"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:19
+msgid "Rella Slider"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:20 theme/theme-register-plugins.php:71
+msgid "Revolution Slider"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:28
+msgid "Select Rella Slider"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:29 theme/metaboxes/rella-sliders.php:45
+msgid "Select the unique name of the slider."
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:31 theme/metaboxes/rella-sliders.php:47
+msgid "Select a slider"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:44
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:60
+msgid "Slider Position"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:61
+msgid "Select if the slider shows below or above the header."
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:64
+msgid "Below"
+msgstr ""
+
+#: theme/metaboxes/rella-sliders.php:65
+msgid "Above"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:16
+#: theme/metaboxes/rella-title-wrapper.php:16
+#: theme/theme-options/rella-header-title-wrapper.php:8
+msgid "Title Wrapper"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:23
+#: theme/metaboxes/rella-title-wrapper.php:23
+#: theme/theme-options/rella-header-title-wrapper.php:15
+msgid "Enable Title Wrapper"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:36
+#: theme/metaboxes/rella-title-wrapper.php:36
+msgid "Custom Title"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:37
+#: theme/metaboxes/rella-title-wrapper.php:37
+msgid "If empty, will display default page/post title"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:43
+#: theme/metaboxes/rella-title-wrapper.php:43
+msgid "No heading"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:44
+#: theme/metaboxes/rella-title-wrapper.php:44
+msgid "Hide the default/custom page/post title in titlebar"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:55
+#: theme/metaboxes/rella-title-wrapper.php:55
+#: theme/theme-options/rella-header-title-wrapper.php:32
+msgid "Title Bar Heading Typography"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:56
+#: theme/metaboxes/rella-title-wrapper.php:56
+#: theme/theme-options/rella-header-title-wrapper.php:33
+msgid "These settings control the typography for the titlebar heading"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:68
+#: theme/metaboxes/rella-title-wrapper.php:68
+msgid "Heading font Weight"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:72
+#: theme/metaboxes/rella-title-wrapper.php:72
+msgid "Normal"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:73
+#: theme/metaboxes/rella-title-wrapper.php:73
+msgid "Medium"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:74
+#: theme/metaboxes/rella-title-wrapper.php:74
+msgid "Semibold"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:75
+#: theme/metaboxes/rella-title-wrapper.php:75
+msgid "Bold"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:82
+#: theme/metaboxes/rella-title-wrapper.php:82
+#: theme/theme-options/rella-header-title-wrapper.php:45
+msgid "Sub-Heading"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:87
+#: theme/metaboxes/rella-title-wrapper.php:87
+#: theme/theme-options/rella-header-title-wrapper.php:50
+msgid "Title Bar Subheading Typography"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:88
+#: theme/metaboxes/rella-title-wrapper.php:88
+#: theme/theme-options/rella-header-title-wrapper.php:51
+msgid "These settings control the typography for the titlebar subheading"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:107
+#: theme/metaboxes/rella-title-wrapper.php:111
+#: theme/theme-options/rella-header-title-wrapper.php:69
+msgid "Content style"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:121
+#: theme/metaboxes/rella-title-wrapper.php:125
+#: theme/theme-options/rella-header-title-wrapper.php:82
+msgid "Overlay title size"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:122
+#: theme/metaboxes/rella-title-wrapper.php:126
+#: theme/theme-options/rella-header-title-wrapper.php:83
+msgid "Input font size for the overlay title in px, for ex 125px"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:134
+msgid "Title Bar content Vertical align"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:137
+#: theme/metaboxes/rella-title-wrapper.php:141
+msgid "Top"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:149
+msgid "Enable Portfolio Navigation"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:174
+#: theme/metaboxes/rella-title-wrapper.php:153
+#: theme/theme-options/rella-header-title-wrapper.php:94
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:186
+#: theme/metaboxes/rella-title-wrapper.php:164
+#: theme/theme-options/rella-header-title-wrapper.php:104
+msgid "Breadcrumb style"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:202
+#: theme/metaboxes/rella-title-wrapper.php:180
+#: theme/theme-options/rella-header-title-wrapper.php:120
+msgid "Title size"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:219
+#: theme/metaboxes/rella-title-wrapper.php:197
+#: theme/theme-options/rella-header-title-wrapper.php:137
+msgid "Title bar height"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:241
+#: theme/metaboxes/rella-title-wrapper.php:219
+#: theme/theme-options/rella-header-title-wrapper.php:159
+msgid "Color scheme"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:252
+#: theme/metaboxes/rella-title-wrapper.php:230
+#: theme/theme-options/rella-header-title-wrapper.php:170
+msgid "Alignment"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:264
+#: theme/metaboxes/rella-title-wrapper.php:242
+#: theme/theme-options/rella-header-title-wrapper.php:182
+#: theme/theme-options/rella-page-404.php:91
+#: theme/theme-options/rella-page-maintenance.php:118
+msgid "Background Type"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:287
+#: theme/metaboxes/rella-title-wrapper.php:265
+#: theme/theme-options/rella-header-title-wrapper.php:222
+msgid "Background Attachment"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:290
+#: theme/metaboxes/rella-title-wrapper.php:268
+#: theme/theme-options/rella-header-title-wrapper.php:225
+msgid "Fixed"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:291
+#: theme/metaboxes/rella-title-wrapper.php:269
+#: theme/theme-options/rella-header-title-wrapper.php:226
+msgid "Inherit"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:303
+#: theme/metaboxes/rella-title-wrapper.php:281
+#: theme/theme-options/rella-header-title-wrapper.php:206
+msgid "Enable Parallax?"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:343
+#: theme/metaboxes/rella-title-wrapper.php:322
+#: theme/theme-options/rella-header-title-wrapper.php:260
+msgid "Enable Overlay"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:355
+#: theme/metaboxes/rella-title-wrapper.php:334
+#: theme/theme-options/rella-header-title-wrapper.php:271
+msgid "Overlay Type"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:370
+#: theme/metaboxes/rella-title-wrapper.php:349
+#: theme/theme-options/rella-header-title-wrapper.php:286
+msgid "Overlay Color"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:381
+#: theme/metaboxes/rella-title-wrapper.php:360
+#: theme/theme-options/rella-header-title-wrapper.php:297
+msgid "Overlay Gradient"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:392
+#: theme/metaboxes/rella-title-wrapper.php:371
+#: theme/theme-options/rella-header-title-wrapper.php:308
+msgid "Extra classes"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:398
+#: theme/metaboxes/rella-title-wrapper.php:377
+msgid "Enable Scroll Button"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:410
+#: theme/metaboxes/rella-title-wrapper.php:389
+msgid "Scroll Button Color"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:411
+#: theme/metaboxes/rella-title-wrapper.php:390
+msgid "Pick a color for scroll button"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:422
+#: theme/metaboxes/rella-title-wrapper.php:401
+msgid "Anchor ID"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper-portfolio.php:423
+#: theme/metaboxes/rella-title-wrapper.php:402
+msgid "Input anchor ID of the section for scroll button"
+msgstr ""
+
+#: theme/metaboxes/rella-title-wrapper.php:138
+msgid "Title Bar Content Vertical align"
+msgstr ""
+
+#: theme/theme-demo-config.php:10
+msgid "Crypto"
+msgstr ""
+
+#: theme/theme-demo-config.php:31
+msgid "Advisor"
+msgstr ""
+
+#: theme/theme-demo-config.php:52
+msgid "Architecture"
+msgstr ""
+
+#: theme/theme-demo-config.php:73
+msgid "Boo Classic"
+msgstr ""
+
+#: theme/theme-demo-config.php:94
+msgid "Barber"
+msgstr ""
+
+#: theme/theme-demo-config.php:115
+msgid "Consultation"
+msgstr ""
+
+#: theme/theme-demo-config.php:136
+msgid "Cafe"
+msgstr ""
+
+#: theme/theme-demo-config.php:157
+msgid "Interior"
+msgstr ""
+
+#: theme/theme-demo-config.php:178
+msgid "Material"
+msgstr ""
+
+#: theme/theme-demo-config.php:199
+msgid "Particles"
+msgstr ""
+
+#: theme/theme-demo-config.php:220
+msgid "Photographer"
+msgstr ""
+
+#: theme/theme-demo-config.php:241
+msgid "Real Estate"
+msgstr ""
+
+#: theme/theme-demo-config.php:262
+msgid "Spa"
+msgstr ""
+
+#: theme/theme-demo-config.php:283
+msgid "Yoga"
+msgstr ""
+
+#: theme/theme-demo-config.php:304
+msgid "Corporate Two"
+msgstr ""
+
+#: theme/theme-demo-config.php:325
+msgid "Portfolio Eight"
+msgstr ""
+
+#: theme/theme-demo-config.php:346
+msgid "Store"
+msgstr ""
+
+#: theme/theme-demo-config.php:367
+msgid "Florence"
+msgstr ""
+
+#: theme/theme-demo-config.php:388
+msgid "Joules"
+msgstr ""
+
+#: theme/theme-demo-config.php:409
+msgid "Magazine"
+msgstr ""
+
+#: theme/theme-demo-config.php:430
+msgid "Peace"
+msgstr ""
+
+#: theme/theme-demo-config.php:451
+msgid "Rome"
+msgstr ""
+
+#: theme/theme-demo-config.php:472
+msgid "Rosemary"
+msgstr ""
+
+#: theme/theme-demo-config.php:493
+msgid "Viral"
+msgstr ""
+
+#: theme/theme-demo-config.php:514
+msgid "Corporate Three"
+msgstr ""
+
+#: theme/theme-demo-config.php:534
+msgid "San Francisco"
+msgstr ""
+
+#: theme/theme-demo-config.php:550
+msgid "Shop 2"
+msgstr ""
+
+#: theme/theme-demo-config.php:566
+msgid "Boo Landing"
+msgstr ""
+
+#: theme/theme-demo-config.php:583
+msgid "Modern Three"
+msgstr ""
+
+#: theme/theme-demo-config.php:600
+msgid "Car Rental"
+msgstr ""
+
+#: theme/theme-demo-config.php:621
+msgid "Corporate One"
+msgstr ""
+
+#: theme/theme-demo-config.php:642
+msgid "Modern One"
+msgstr ""
+
+#: theme/theme-demo-config.php:658
+msgid "Centro"
+msgstr ""
+
+#: theme/theme-demo-config.php:675
+msgid "Mobile"
+msgstr ""
+
+#: theme/theme-demo-config.php:696
+msgid "Car Dealear"
+msgstr ""
+
+#: theme/theme-demo-config.php:717
+msgid "Main 01"
+msgstr ""
+
+#: theme/theme-demo-config.php:738
+msgid "Education"
+msgstr ""
+
+#: theme/theme-demo-config.php:759
+msgid "Elegant"
+msgstr ""
+
+#: theme/theme-demo-config.php:780
+msgid "Gym/Fitness"
+msgstr ""
+
+#: theme/theme-demo-config.php:801
+msgid "Ebook"
+msgstr ""
+
+#: theme/theme-demo-config.php:822
+msgid "Lawyer"
+msgstr ""
+
+#: theme/theme-demo-config.php:843
+msgid "Fashion Blog"
+msgstr ""
+
+#: theme/theme-demo-config.php:863
+msgid "Portfolio Five"
+msgstr ""
+
+#: theme/theme-demo-config.php:884
+msgid "Business One"
+msgstr ""
+
+#: theme/theme-demo-config.php:904
+msgid "Business Two"
+msgstr ""
+
+#: theme/theme-demo-config.php:924
+msgid "Modern Two"
+msgstr ""
+
+#: theme/theme-demo-config.php:945
+msgid "Classic One"
+msgstr ""
+
+#: theme/theme-demo-config.php:966
+msgid "Classic Two"
+msgstr ""
+
+#: theme/theme-demo-config.php:987
+msgid "Classic Three"
+msgstr ""
+
+#: theme/theme-demo-config.php:1008
+msgid "Classic Four"
+msgstr ""
+
+#: theme/theme-demo-config.php:1029
+msgid "Product Landing"
+msgstr ""
+
+#: theme/theme-demo-config.php:1050
+msgid "Landing Two"
+msgstr ""
+
+#: theme/theme-demo-config.php:1071
+msgid "Landing Three"
+msgstr ""
+
+#: theme/theme-demo-config.php:1092
+msgid "Agency"
+msgstr ""
+
+#: theme/theme-demo-config.php:1112
+msgid "Photography"
+msgstr ""
+
+#: theme/theme-demo-config.php:1133
+msgid "Portfolio 03"
+msgstr ""
+
+#: theme/theme-demo-config.php:1153
+msgid "Hosting Blue"
+msgstr ""
+
+#: theme/theme-demo-config.php:1174
+msgid "Portfolio 07"
+msgstr ""
+
+#: theme/theme-demo-config.php:1194
+msgid "Cloud"
+msgstr ""
+
+#: theme/theme-demo-config.php:1215
+msgid "Portfolio One"
+msgstr ""
+
+#: theme/theme-demo-config.php:1235
+msgid "Portfolio Four"
+msgstr ""
+
+#: theme/theme-demo-config.php:1255
+msgid "Portfolio Six"
+msgstr ""
+
+#: theme/theme-demo-config.php:1276
+msgid "Bike Universe"
+msgstr ""
+
+#: theme/theme-demo-config.php:1296
+#: theme/theme-vc-templates-panel-editor.php:82
+msgid "Services"
+msgstr ""
+
+#: theme/theme-demo-config.php:1317
+msgid "Business Three"
+msgstr ""
+
+#: theme/theme-demo-config.php:1338
+msgid "Restaurant"
+msgstr ""
+
+#: theme/theme-demo-config.php:1359
+msgid "Portfolio Two"
+msgstr ""
+
+#: theme/theme-demo-config.php:1378
+msgid "Modern Four"
+msgstr ""
+
+#: theme/theme-demo-config.php:1398
+msgid "Chamonix"
+msgstr ""
+
+#: theme/theme-demo-config.php:1407
+msgid "Chester"
+msgstr ""
+
+#: theme/theme-demo-config.php:1416
+msgid "Esperance"
+msgstr ""
+
+#: theme/theme-demo-config.php:1425
+msgid "Molde"
+msgstr ""
+
+#: theme/theme-demo-config.php:1434
+msgid "Montana"
+msgstr ""
+
+#: theme/theme-demo-config.php:1443
+msgid "Boom"
+msgstr ""
+
+#: theme/theme-demo-config.php:1452
+msgid "Saas"
+msgstr ""
+
+#: theme/theme-demo-config.php:1461
+msgid "Salisbury"
+msgstr ""
+
+#: theme/theme-demo-config.php:1470
+msgid "Voss"
+msgstr ""
+
+#: theme/theme-demo-config.php:1479
+msgid "Wells"
+msgstr ""
+
+#: theme/theme-hooks.php:719
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: theme/theme-hooks.php:743
+msgid "Wrong username or password."
+msgstr ""
+
+#: theme/theme-hooks.php:745
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:7
+msgid "Advanced"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:13
+msgid "Code Fields (Tracking etc.)"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:19
+msgid "Tracking Code"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:20
+msgid ""
+"Paste your tracking code here. This will be added into the header template "
+"of your theme. Place code inside &lt;script&gt; tags."
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:29
+msgid "Space before &lt;/head&gt;"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:30
+msgid ""
+"Only accepts javascript code wrapped with &lt;script&gt; tags and HTML "
+"markup that is valid inside the &lt;/head&gt; tag."
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:39
+msgid "Space before &lt;/body&gt;"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:40
+msgid ""
+"Only accepts javascript code, wrapped with &lt;script&gt; tags and valid "
+"HTML markup inside the &lt;/body&gt; tag."
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:50
+msgid "Core"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:57
+msgid "Clear Static Files Query String"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:58
+msgid ""
+"If enabled qeury string variable \"ver\" will be removed from query string "
+"for JS and CSS files."
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:66
+msgid "Dynamic CSS"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:73
+msgid "CSS Compiler"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:74
+msgid ""
+"Turn on to compile the dynamic CSS into a file. A separate file will be "
+"created for each of your pages & posts inside of the uploads/rella-styles "
+"folder."
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:81
+msgid "Database Caching for Dynamic CSS"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:82
+msgid "Turn on to enable caching the dynamic CSS in your database."
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:89
+msgid "Cache Server IP"
+msgstr ""
+
+#: theme/theme-options/rella-advanced.php:90
+msgid ""
+"For unique cases where you are using cloud flare and a cache server, ex: "
+"varnish cache. Enter your cache server IP to clear the theme options dynamic "
+"CSS cache. Consult with your server admin for help."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:12
+#: theme/theme-options/rella-general.php:7
+#: theme/theme-options/rella-portfolio.php:12
+msgid "General"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:19
+msgid "Blog Title Bar"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:20
+msgid ""
+"Turn on to show the page title bar for the assigned blog page in \"settings "
+"> reading\" or blog archive pages."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:31
+msgid "Blog Page Title"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:32
+msgid ""
+"Controls the title text that displays in the page title bar of the assigned "
+"blog page. This option only works if your front page displays your latest "
+"post in \"settings > reading\" or blog archive pages."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:39
+msgid "Blog Page Subtitle"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:40
+msgid ""
+"Controls the subtitle text that displays in the page title bar of the "
+"assigned blog page. This option only works if your front page displays your "
+"latest post in \"settings > reading\" or blog archive pages."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:48 theme/theme-options/rella-blog.php:195
+#: theme/theme-options/rella-blog.php:343
+#: theme/theme-options/rella-blog.php:491
+msgid "Classic Image Large"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:49 theme/theme-options/rella-blog.php:196
+#: theme/theme-options/rella-blog.php:344
+#: theme/theme-options/rella-blog.php:492
+msgid "Classic Date Featured"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:50 theme/theme-options/rella-blog.php:197
+#: theme/theme-options/rella-blog.php:345
+#: theme/theme-options/rella-blog.php:493
+msgid "Classic Image Medium"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:51 theme/theme-options/rella-blog.php:198
+#: theme/theme-options/rella-blog.php:346
+#: theme/theme-options/rella-blog.php:494
+msgid "Featured Large Image"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:52 theme/theme-options/rella-blog.php:199
+#: theme/theme-options/rella-blog.php:347
+#: theme/theme-options/rella-blog.php:495
+msgid "Featured Classic Image"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:53 theme/theme-options/rella-blog.php:200
+#: theme/theme-options/rella-blog.php:348
+#: theme/theme-options/rella-blog.php:496
+msgid "Featured Small Image"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:54 theme/theme-options/rella-blog.php:201
+#: theme/theme-options/rella-blog.php:349
+#: theme/theme-options/rella-blog.php:497
+msgid "Featured posts"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:55 theme/theme-options/rella-blog.php:202
+#: theme/theme-options/rella-blog.php:350
+#: theme/theme-options/rella-blog.php:498
+msgid "Featured posts 2"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:59 theme/theme-options/rella-blog.php:206
+#: theme/theme-options/rella-blog.php:354
+#: theme/theme-options/rella-blog.php:502
+msgid "No Image"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:60 theme/theme-options/rella-blog.php:207
+#: theme/theme-options/rella-blog.php:355
+#: theme/theme-options/rella-blog.php:503
+msgid "Puzzle"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:61 theme/theme-options/rella-blog.php:208
+#: theme/theme-options/rella-blog.php:356
+#: theme/theme-options/rella-blog.php:504
+#: theme/theme-options/rella-header-title-wrapper.php:72
+msgid "Split"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:62 theme/theme-options/rella-blog.php:209
+#: theme/theme-options/rella-blog.php:357
+#: theme/theme-options/rella-blog.php:505
+msgid "Split 2"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:63 theme/theme-options/rella-blog.php:210
+#: theme/theme-options/rella-blog.php:358
+#: theme/theme-options/rella-blog.php:506
+msgid "Timeline"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:64 theme/theme-options/rella-blog.php:211
+#: theme/theme-options/rella-blog.php:359
+#: theme/theme-options/rella-blog.php:507
+msgid "Title Featured"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:65 theme/theme-options/rella-blog.php:212
+#: theme/theme-options/rella-blog.php:360
+#: theme/theme-options/rella-blog.php:508
+msgid "Title Only"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:67 theme/theme-options/rella-blog.php:214
+#: theme/theme-options/rella-blog.php:362
+#: theme/theme-options/rella-blog.php:510
+#: theme/theme-options/rella-portfolio.php:55
+msgid "Select content type for your grid."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:74 theme/theme-options/rella-blog.php:221
+#: theme/theme-options/rella-blog.php:369
+#: theme/theme-options/rella-blog.php:517
+#: theme/theme-options/rella-portfolio.php:387
+msgid "Enable parallax?"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:79 theme/theme-options/rella-blog.php:226
+#: theme/theme-options/rella-blog.php:374
+#: theme/theme-options/rella-blog.php:522
+#: theme/theme-options/rella-portfolio.php:388
+msgid "Parallax for images"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:86 theme/theme-options/rella-blog.php:233
+#: theme/theme-options/rella-blog.php:381
+#: theme/theme-options/rella-blog.php:529
+msgid "Show Meta?"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:91 theme/theme-options/rella-blog.php:238
+#: theme/theme-options/rella-blog.php:386
+#: theme/theme-options/rella-blog.php:534
+msgid "Select yes to show tags or categories on post thumbnail"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:98 theme/theme-options/rella-blog.php:245
+#: theme/theme-options/rella-blog.php:393
+#: theme/theme-options/rella-blog.php:541
+msgid "Meta Type"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:100
+#: theme/theme-options/rella-blog.php:247
+#: theme/theme-options/rella-blog.php:395
+#: theme/theme-options/rella-blog.php:543
+msgid "Tags"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:101
+#: theme/theme-options/rella-blog.php:248
+#: theme/theme-options/rella-blog.php:396
+#: theme/theme-options/rella-blog.php:544
+#: theme/theme-options/rella-portfolio.php:204
+msgid "Categories"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:103
+#: theme/theme-options/rella-blog.php:250
+#: theme/theme-options/rella-blog.php:398
+#: theme/theme-options/rella-blog.php:546
+msgid "Select what to show on post thumbnail"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:115
+#: theme/theme-options/rella-blog.php:262
+#: theme/theme-options/rella-blog.php:410
+#: theme/theme-options/rella-blog.php:558
+msgid "One category?"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:120
+#: theme/theme-options/rella-blog.php:267
+#: theme/theme-options/rella-blog.php:415
+#: theme/theme-options/rella-blog.php:563
+msgid "Select yes to show one category in meta"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:132
+msgid "Blog excerpt length"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:140
+#: theme/theme-options/rella-blog.php:287
+#: theme/theme-options/rella-blog.php:435
+#: theme/theme-options/rella-blog.php:583
+msgid "Pagination Type"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:142
+#: theme/theme-options/rella-blog.php:289
+#: theme/theme-options/rella-blog.php:437
+#: theme/theme-options/rella-blog.php:585
+msgid "Pagination"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:143
+#: theme/theme-options/rella-blog.php:290
+#: theme/theme-options/rella-blog.php:438
+#: theme/theme-options/rella-blog.php:586
+msgid "Ajax 1"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:144
+#: theme/theme-options/rella-blog.php:291
+#: theme/theme-options/rella-blog.php:439
+#: theme/theme-options/rella-blog.php:587
+msgid "Ajax 2"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:145
+#: theme/theme-options/rella-blog.php:292
+#: theme/theme-options/rella-blog.php:440
+#: theme/theme-options/rella-blog.php:588
+msgid "Ajax 3"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:146
+#: theme/theme-options/rella-blog.php:293
+#: theme/theme-options/rella-blog.php:441
+#: theme/theme-options/rella-blog.php:589
+msgid "Ajax 4"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:147
+#: theme/theme-options/rella-blog.php:294
+#: theme/theme-options/rella-blog.php:442
+#: theme/theme-options/rella-blog.php:590
+msgid "Ajax 5"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:148
+#: theme/theme-options/rella-blog.php:295
+#: theme/theme-options/rella-blog.php:443
+#: theme/theme-options/rella-blog.php:591
+msgid "Ajax 6"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:150
+#: theme/theme-options/rella-blog.php:297
+#: theme/theme-options/rella-blog.php:445
+#: theme/theme-options/rella-blog.php:593
+msgid "Select pagination style."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:158
+msgid "Category Archive Page"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:165
+msgid "Category Archive Title Bar"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:166
+msgid "Turn on to show the category archive page title bar."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:177
+msgid "Category Archive Title"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:178
+msgid "Use shortcode [ra_category_title] to display the category title"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:179
+msgid ""
+"Controls the title text that displays in the category archive page title bar."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:186
+msgid "Category Archive Subtitle"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:187
+msgid ""
+"Controls the subtitle text that displays in the category archive page title "
+"bar."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:279
+#: theme/theme-options/rella-blog.php:427
+#: theme/theme-options/rella-blog.php:575
+msgid "Excerpt length"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:306
+msgid "Tag Archive Page"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:313
+msgid "Tag Archive Title Bar"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:314
+msgid "Turn on to show the Tag archive page title bar."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:325
+msgid "Tag Archive Title"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:326
+msgid "Use shortcode [ra_tag_title] to display the tag title"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:327
+msgid ""
+"Controls the title text that displays in the Tag archive page title bar."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:334
+msgid "Tag Archive Subtitle"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:335
+msgid ""
+"Controls the subtitle text that displays in the Tag archive page title bar."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:454
+msgid "Author Archive Page"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:461
+msgid "Author Archive Title Bar"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:462
+msgid "Turn on to show the Author archive page title bar."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:473
+msgid "Author Archive Title"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:474
+msgid "Use shortcode [ra_author] to display the author name"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:475
+msgid ""
+"Controls the title text that displays in the Author archive page title bar."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:482
+msgid "Author Archive Subtitle"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:483
+msgid ""
+"Controls the subtitle text that displays in the Author archive page title "
+"bar."
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:601
+#: theme/theme-options/rella-portfolio.php:453
+msgid "Single Post"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:635
+msgid "Single Post Heading Typography"
+msgstr ""
+
+#: theme/theme-options/rella-blog.php:636
+msgid "These settings control the typography for the single post headings"
+msgstr ""
+
+#: theme/theme-options/rella-custom-code.php:7
+msgid "Custom CSS"
+msgstr ""
+
+#: theme/theme-options/rella-custom-code.php:14
+msgid "CSS Code"
+msgstr ""
+
+#: theme/theme-options/rella-custom-code.php:15
+msgid ""
+"Enter your CSS code in the field below. Do not include any tags or HTML in "
+"the field. Custom CSS entered here will override the theme CSS. In some "
+"cases, the !important tag may be needed. Don't URL encode image or svg "
+"paths. Contents of this field will be auto encoded."
+msgstr ""
+
+#: theme/theme-options/rella-export.php:7
+msgid "Import/Export"
+msgstr ""
+
+#: theme/theme-options/rella-export.php:8
+msgid "Import/Export Options"
+msgstr ""
+
+#: theme/theme-options/rella-export.php:15
+msgid "Import Export"
+msgstr ""
+
+#: theme/theme-options/rella-export.php:16
+msgid "Save and restore your Redux options"
+msgstr ""
+
+#: theme/theme-options/rella-extras.php:7
+msgid "Extras"
+msgstr ""
+
+#: theme/theme-options/rella-footer.php:12
+#: theme/theme-options/rella-header-layout.php:7
+msgid "Layout"
+msgstr ""
+
+#: theme/theme-options/rella-footer.php:30
+#: theme/theme-options/rella-header-layout.php:25
+msgid "Template"
+msgstr ""
+
+#: theme/theme-options/rella-footer.php:31
+msgid "Choose template for footer."
+msgstr ""
+
+#: theme/theme-options/rella-general.php:13
+msgid "General Settings"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:20
+msgid "Custom Sidebars"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:21
+msgid "Custom sidebars can be assigned to any page or post."
+msgstr ""
+
+#: theme/theme-options/rella-general.php:22
+msgid "You can add as many custom sidebars as you need."
+msgstr ""
+
+#: theme/theme-options/rella-general.php:27
+msgid "Primary Accent color"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:29
+msgid "Use this colorpicker to override main accent color of the theme"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:36
+msgid "Secondary Accent color"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:38
+msgid "Use this colorpicker to override secondary accent color of the theme"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:43
+msgid "Tertiary Accent color"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:45
+msgid "Use this colorpicker to override tertiary accent color of the theme"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:50
+msgid "Primary Gradient colors"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:52
+msgid "Use this colorpicker to override main gradient colors of the theme"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:63
+msgid "Secondary Gradient colors"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:65
+msgid "Use this colorpicker to override secondary gradient colors of the theme"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:76
+msgid "Tertiary Gradient colors"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:78
+msgid "Use this colorpicker to override tertiary gradient colors of the theme"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:89
+msgid "Links Color Option"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:101
+msgid "Theme Features"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:108
+msgid "Enable Boo Universe"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:109
+msgid "If on will enable Boo Visual Composer pre-builded templates"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:115
+msgid "Enable Loader Effect"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:116
+msgid "If on, a loader will appear before loading the page."
+msgstr ""
+
+#: theme/theme-options/rella-general.php:122
+msgid "Preloader Style"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:123
+msgid "Select a preloader style"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:128
+msgid "Style 4"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:129
+msgid "Style 5"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:130
+msgid "Style 6"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:142
+msgid "Preloader Color"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:144
+msgid "Use this colorpicker to change preloader background color"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:154
+msgid "Preloader Color Back"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:156
+msgid "Use this colorpicker to change preloader back background color"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:166
+msgid "Enable Progressively Load"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:167
+msgid ""
+"If enabled it will progressively load the images and speed up the page "
+"loading."
+msgstr ""
+
+#: theme/theme-options/rella-general.php:173
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:174
+msgid "If on, will enable smooth scroll"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:180
+msgid "Enable Go To Top Buttons"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:181
+msgid "If on, a button will appear in the right bottom corner the page."
+msgstr ""
+
+#: theme/theme-options/rella-general.php:188
+msgid "Icons"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:194
+msgid "Additional Icon Fonts sets"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:195
+msgid "Select icon fonts sets you want to enable"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:197
+msgid "Rella Icons"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:204
+msgid "Custom Icons"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:205
+msgid "Add your custom icons here"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:206
+msgid "NOTE: All icons files should be uploaded via FTP on your server"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:214
+msgid "Font icon title"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:215
+msgid "Awesome Font"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:216
+msgid ""
+"Add title of the font icon as it will be used font icon id and will display "
+"in Iconpicker"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:221
+msgid "Icon Css file"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:222
+msgid "http://example.com/wp-content/my-custom-icons/my-custom-icons.css"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:227
+msgid "Icons classnames"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:228
+msgid ""
+"Please, add icons classnames, separated by comma. Ex. icon-home, icon-"
+"envelope, icon-circle"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:238
+msgid "APP Api Keys"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:244
+msgid "Google map API key"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:246
+msgid ""
+"Add your Google map API key here. You can get Google API key from https://"
+"developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:251
+msgid "Instagram Access Token"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:253
+msgid ""
+"In order to make instragam shortcode to work, you need to login in Instagram "
+"Account to <a target=\"_blank\" href=\"https://instagram.com/oauth/"
+"authorize/?"
+"client_id=61156e54867448039c8325143064fac0&scope=basic&response_type=code&redirect_uri=https://"
+"themerella.com/instagram/instagram-auth.php\">Generate the Access Token and "
+"get User ID</a>"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:258
+msgid "Mailchimp API key"
+msgstr ""
+
+#: theme/theme-options/rella-general.php:260
+msgid ""
+"Add MailChimp API key here, if you want to use Newsletter Forms. You can get "
+"MailChimp API key from <a href=\"https://mailchimp.com/help/about-api-keys/"
+"\">MailChimp</a>"
+msgstr ""
+
+#: theme/theme-options/rella-header-layout.php:14
+#: theme/theme-options/rella-page-404.php:14
+msgid "Enable Header"
+msgstr ""
+
+#: theme/theme-options/rella-header-layout.php:26
+msgid "Choose template for header."
+msgstr ""
+
+#: theme/theme-options/rella-header-layout.php:34
+msgid "Mobile dropdown style"
+msgstr ""
+
+#: theme/theme-options/rella-header-layout.php:38
+#: theme/theme-options/rella-woocommerce.php:103
+msgid "Alternative"
+msgstr ""
+
+#: theme/theme-options/rella-header-layout.php:45
+msgid "Mobile nav trigger color"
+msgstr ""
+
+#: theme/theme-options/rella-header-layout.php:47
+msgid "Use this colorpicker to set a color for mobile nav trigger"
+msgstr ""
+
+#: theme/theme-options/rella-header-menu.php:8
+msgid "Menu"
+msgstr ""
+
+#: theme/theme-options/rella-header-menu.php:108
+msgid "Menu Item Padding"
+msgstr ""
+
+#: theme/theme-options/rella-header-menu.php:121
+msgid "Logo Padding"
+msgstr ""
+
+#: theme/theme-options/rella-header-title-wrapper.php:27
+msgid "Heading"
+msgstr ""
+
+#: theme/theme-options/rella-header-title-wrapper.php:75
+msgid "Bottom Bar"
+msgstr ""
+
+#: theme/theme-options/rella-header-title-wrapper.php:107
+msgid "Parallelogram"
+msgstr ""
+
+#: theme/theme-options/rella-layout.php:8
+msgid "Layout Settings"
+msgstr ""
+
+#: theme/theme-options/rella-layout.php:19
+msgid "Default - 1170px"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:7 theme/theme-options/rella-logo.php:13
+msgid "Logo"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:21
+msgid "Default Logo"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:22
+msgid "Upload or select an image as your logo."
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:29
+msgid "Retina Default Logo"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:30
+msgid ""
+"Upload or select an image for the retina version of the logo. It should be "
+"exactly 2x the size of the main logo."
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:37
+msgid "Logo Light"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:38
+msgid "Upload a light logo to display on section with dark background"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:45
+msgid "Retina Logo Light"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:46
+msgid "Upload a light retina logo to display on section with dark background"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:54
+msgid "Sticky Header Default Logo"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:55
+msgid "Upload or select an image as your default logo for sticky header."
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:62
+msgid "Sticky Header Retina Logo"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:63
+msgid ""
+"Upload or select an image for the retina version of the logo for sticky "
+"header. It should be exactly 2x the size of the main logo."
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:70
+msgid "Sticky Header Logo Light"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:71
+msgid "Upload a light logo to display on sticky header with dark background"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:78
+msgid "Sticky Header Retina Logo Light"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:79
+msgid ""
+"Upload a light retina logo to display on sticky header with dark background"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:86
+msgid "Mobile Logo"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:87
+msgid ""
+"Upload the logo that will be displayed in the menu bar for small devices."
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:94
+msgid "Retina Mobile Logo"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:95
+msgid ""
+"Upload or select an image file for the retina version of the mobile logo. It "
+"should be exactly 2x the size of the mobile logo."
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:101
+msgid "Width for logo"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:103
+msgid "Add width for logo image ex. 150px"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:108
+msgid "Max Width for logo"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:110
+msgid "Add max-width for logo image ex. 150px"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:118
+#: theme/theme-options/rella-logo.php:125
+msgid "Favicon"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:126
+msgid "Favicon for your website at 16px x 16px."
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:132
+msgid "Apple iPhone Icon Upload"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:133
+msgid "Favicon for Apple iPhone at 57px x 57px."
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:139
+msgid "Apple iPhone Retina Icon Upload"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:140
+msgid "Favicon for Apple iPhone Retina Version at 114px x 114px."
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:150
+msgid "Apple iPad Icon Upload"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:151
+msgid "Favicon for Apple iPad at 72px x 72px."
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:157
+msgid "Apple iPad Retina Icon Upload"
+msgstr ""
+
+#: theme/theme-options/rella-logo.php:158
+msgid "Favicon for Apple iPad Retina Version at 144px x 144px."
+msgstr ""
+
+#: theme/theme-options/rella-page-404.php:7
+msgid "404 Page"
+msgstr ""
+
+#: theme/theme-options/rella-page-404.php:24
+#: theme/theme-options/rella-page-maintenance.php:100
+msgid "Page Title"
+msgstr ""
+
+#: theme/theme-options/rella-page-404.php:31
+msgid "Page Teaser"
+msgstr ""
+
+#: theme/theme-options/rella-page-404.php:38
+#: theme/theme-options/rella-page-maintenance.php:109
+msgid "Page Content"
+msgstr ""
+
+#: theme/theme-options/rella-page-404.php:45
+msgid "Enable Search"
+msgstr ""
+
+#: theme/theme-options/rella-page-404.php:46
+msgid "If on, the search module will be displayed."
+msgstr ""
+
+#: theme/theme-options/rella-page-404.php:56
+msgid "Search Title"
+msgstr ""
+
+#: theme/theme-options/rella-page-404.php:68
+msgid "Enable Button"
+msgstr ""
+
+#: theme/theme-options/rella-page-404.php:69
+msgid "If on, the return to home button will be displayed."
+msgstr ""
+
+#: theme/theme-options/rella-page-404.php:79
+msgid "Button Title"
+msgstr ""
+
+#: theme/theme-options/rella-page-maintenance.php:29
+msgid "Maintenance Page"
+msgstr ""
+
+#: theme/theme-options/rella-page-maintenance.php:36
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: theme/theme-options/rella-page-maintenance.php:37
+#: theme/theme-options/rella-page-maintenance.php:50
+msgid "If on, the frontend shows maintenance mode page only."
+msgstr ""
+
+#: theme/theme-options/rella-page-maintenance.php:38
+#: theme/theme-options/rella-page-maintenance.php:51
+msgid ""
+"Only administrator will be able to visit site. If you want to check if "
+"maintenance mode is enabled you have to logout."
+msgstr ""
+
+#: theme/theme-options/rella-page-maintenance.php:49
+msgid "Enable Till"
+msgstr ""
+
+#: theme/theme-options/rella-page-maintenance.php:62
+msgid "Date (mm/dd/yyyy)"
+msgstr ""
+
+#: theme/theme-options/rella-page-maintenance.php:74
+msgid "Hour"
+msgstr ""
+
+#: theme/theme-options/rella-page-maintenance.php:87
+msgid "Minutes"
+msgstr ""
+
+#: theme/theme-options/rella-page-maintenance.php:167
+msgid "Social identities"
+msgstr ""
+
+#: theme/theme-options/rella-page-maintenance.php:179
+msgid "Url"
+msgstr ""
+
+#: theme/theme-options/rella-page-search.php:7
+#: theme/theme-options/rella-sidebars.php:236
+msgid "Search Page"
+msgstr ""
+
+#: theme/theme-options/rella-page-search.php:15
+msgid ""
+"Select a header template for search result page, will override the default "
+"one."
+msgstr ""
+
+#: theme/theme-options/rella-page-search.php:26
+msgid "Search Page Title Bar"
+msgstr ""
+
+#: theme/theme-options/rella-page-search.php:27
+msgid "Turn on to show the search page title bar."
+msgstr ""
+
+#: theme/theme-options/rella-page-search.php:38
+msgid "Search Page Subtitle"
+msgstr ""
+
+#: theme/theme-options/rella-page-search.php:39
+msgid ""
+"Controls the subtitle text that displays in the search result page title bar."
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:7
+msgid "Portfolio"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:19
+msgid "Portfolio Archive/Category Title Bar"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:20
+msgid "Turn on to show the portfolio archive/category title bar"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:31
+msgid "Portfolio Archive/Category Title"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:32
+msgid ""
+"Use shortcode [ra_category_title] to display the portfolio category title"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:33
+msgid ""
+"Controls the title text that displays in the portfolio category archive page "
+"title bar."
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:34
+msgid "Portfolio: [ra_category_title]"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:40
+msgid "Portfolio Archive/Category Subtitle"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:41
+msgid ""
+"Controls the subtitle text that displays in the portfolio archive/category"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:49
+msgid "Classic"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:52
+msgid "Metro"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:53
+msgid "Packery"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:62
+msgid "Items Style"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:66
+msgid "List Shadow"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:67
+msgid "List Outline"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:69
+msgid "Hover Light"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:70
+msgid "Hover Dark"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:71
+msgid "Hover Blur"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:72
+msgid "Hover Side"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:73
+msgid "Hover Elegant"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:74
+msgid "Hover Rectangular"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:75
+msgid "Hover Bottom"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:76
+msgid "Hover Icons"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:77
+msgid "Hover Shadow"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:78
+msgid "Hover Gradient"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:79
+msgid "Hover Color"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:80
+msgid "Hover Frame"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:81
+msgid "Hover Left"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:83
+msgid "Caption Fixed"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:84
+msgid "Related"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:87
+msgid "Select style for portfolio items"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:94
+msgid "Content Alignment"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:114
+msgid "Text Alignment"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:149
+msgid "Columns gap"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:175
+msgid "Show / Hide Parts"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:176
+msgid "Show or hide parts of the portfolio items on portfolio listing"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:193
+msgid "Description"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:215
+msgid "One Category"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:231
+msgid "Like"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:270
+msgid "Detail Button"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:281
+msgid "External Link Button"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:299
+msgid "Share Button"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:314
+msgid "Lightbox Button"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:332
+msgid "Zoom Effect"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:350
+msgid "Misc."
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:356
+msgid "Enable External links"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:357
+msgid "External link will be apllied to the portfolio item \"Detail Button\""
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:371
+msgid "Disable Post Formats?"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:372
+msgid ""
+"If yes will show only featured images of the post, will ignore post formats"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:399
+msgid "Enable Hover Effect?"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:400
+msgid "\"Rise on hover\" effect"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:411
+msgid "Enable loader?"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:412
+msgid "Loader while items are loading."
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:422
+msgid "Portflio excerpt length"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:430
+msgid "IMPORTANT NOTE:"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:432
+msgid ""
+"The options on this tab only control the portfolio page templates and "
+"portfolio archives, not the recent work shortcode. The only options on this "
+"tab that work with the recent work shortcode is the Load More Post Button "
+"Color."
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:438
+msgid "Portfolio Slug"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:439
+msgid ""
+"The slug name cannot be the same name as your portfolio page or the layout "
+"will break. This option changes the permalink when you use the permalink "
+"type as %postname%. Visit the Settings - Permalinks screen after changing "
+"this setting"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:445
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:446
+msgid ""
+"The slug name cannot be the same name as your portfolio page over wide the "
+"layout will break. This option changes the permalink when you use the "
+"permalink type as %postname%. Visit the Settings - Permalinks screen after "
+"changing this setting"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:484
+msgid "Enable Portfolio Navigation in Titlebar"
+msgstr ""
+
+#: theme/theme-options/rella-portfolio.php:495
+msgid "Previous/Next Pagination below the content"
+msgstr ""
+
+#: theme/theme-options/rella-preheader.php:7
+msgid "Preheader"
+msgstr ""
+
+#: theme/theme-options/rella-preheader.php:8
+msgid "Change the preheader section configuration."
+msgstr ""
+
+#: theme/theme-options/rella-preheader.php:15
+msgid "Enable preheader"
+msgstr ""
+
+#: theme/theme-options/rella-promotions.php:7
+msgid "Promo Boxes"
+msgstr ""
+
+#: theme/theme-options/rella-promotions.php:14
+msgid "Promotions"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:20
+msgid "Activate Global Sidebar For Pages"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:21
+msgid ""
+"Turn on if you want to use the same sidebars on all pages. This option "
+"overrides the page options."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:31
+msgid "Enable Sticky Sidebar For Pages"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:32
+msgid ""
+"Turn on if you want to add sticky effect for sidebars on all pages. This "
+"option overrides the page options."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:42
+msgid "Global Page Sidebar"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:43
+msgid "Select sidebar that will display on all pages."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:49
+msgid "Global Page Sidebar Position"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:50
+msgid "Controls the position of sidebar for all pages."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:62
+msgid "Portfolio Posts"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:69
+msgid "Activate Global Sidebar For Portfolio Posts"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:70
+msgid ""
+"Turn on if you want to use the same sidebars on all portfolio posts. This "
+"option overrides the portfolio options."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:80
+msgid "Enable Sticky Sidebar For Portfolio Posts"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:81
+msgid ""
+"Turn on if you want to add sticky effect for sidebars on all portfolios "
+"posts. This option overrides the portfolio options."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:91
+msgid "Global Portfolio Posts Sidebar"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:92
+msgid "Select sidebar that will display on all portfolio posts."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:98
+msgid "Global Portfolio Sidebar Position"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:99
+msgid "Controls the position of the sidebar for all portfolio posts."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:111
+msgid "Portfolio Archive"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:118
+msgid "Enable Sticky Sidebar For Portfolio Archive"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:119
+msgid ""
+"Turn on if you want to add sticky effect for sidebars on all portfolios "
+"archives."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:129
+msgid "Portfolio Archive Sidebar"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:130
+msgid "Select sidebar that will display on the portfolio archive pages."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:136
+msgid "Global Portfolio Archive Sidebar Position"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:137
+msgid "Controls the position of the sidebar for portfolio archive pages."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:149
+msgid "Blog Posts"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:156
+msgid "Activate Global Sidebar For Blog Posts"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:157
+msgid ""
+"Turn on if you want to use the same sidebars on all blog posts. This option "
+"overrides the blog options."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:167
+msgid "Enable Sticky Sidebar For blog posts"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:168
+msgid ""
+"Turn on if you want to add sticky effect for sidebars on all blog posts. "
+"This option overrides the blog options."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:178
+msgid "Global Blog Posts Sidebar"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:179
+msgid "Select sidebar that will display on all blog posts."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:185
+msgid "Global Blog Sidebar Position"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:186
+msgid "Controls the position of the sidebar for all blog posts."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:198
+msgid "Blog Archive"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:205
+msgid "Enable Sticky Sidebar For blog archives"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:206
+msgid "Turn on if you want to add sticky effect for sidebars on blog archives."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:216
+msgid "Blog Archive Sidebar "
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:217
+msgid "Select sidebar that will display on the blog archive pages."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:223
+msgid "Global Blog Archive Sidebar Position"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:224
+msgid "Controls the position of the sidebar for blog archive pages."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:243
+msgid "Enable Sticky Sidebar For search page"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:244
+msgid ""
+"Turn on if you want to add sticky effect for sidebar on search result page"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:254
+msgid "Search Page Sidebar"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:255
+msgid "Select the sidebar that will display on the search results page."
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:261
+msgid "Search Sidebar Position"
+msgstr ""
+
+#: theme/theme-options/rella-sidebars.php:262
+msgid "Controls the position of the sidebar for the search results page."
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:7
+msgid "Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:13
+#: theme/theme-options/rella-typography.php:20
+msgid "Body Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:21
+msgid "These settings control the typography for all body text."
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:38
+#: theme/theme-options/rella-typography.php:54
+msgid "Body Extra Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:39
+#: theme/theme-options/rella-typography.php:55
+msgid "This setting control the typography for some elements in text."
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:75
+msgid "Headings Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:82
+msgid "H1 Heading Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:83
+msgid "These settings control the typography for all H1 Heading."
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:101
+msgid "Enable Inheritance"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:102
+msgid ""
+"Turn on to inherite the same font-family and font-style for all other "
+"headings"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:112
+msgid "H2 Heading Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:113
+msgid "These settings control the typography for all H2 Headings."
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:132
+msgid "H3 Heading Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:133
+msgid "These settings control the typography for all H3 Headings."
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:151
+msgid "H4 Heading Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:152
+msgid "These settings control the typography for all H4 Headings."
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:170
+msgid "H5 Heading Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:171
+msgid "These settings control the typography for all H5 Headings."
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:189
+msgid "H6 Heading Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:190
+msgid "These settings control the typography for all H6 Headings."
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:209
+msgid "Custom fonts"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:217
+msgid "Add your custom fonts here"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:218
+msgid "NOTE: All fonts file should be uploaded via FTP on your server"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:226
+msgid "Font title"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:227
+msgid "Montserrat"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:228
+msgid "Add title of the font as it will be used in Redux Typography"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:234
+msgid "WOFF2 file"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:235
+msgid "http://example.com/wp-content/my-custom-font/my-custom-font.woff2"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:241
+msgid "WOFF file"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:242
+msgid "http://example.com/wp-content/my-custom-font/my-custom-font.woff"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:248
+msgid "TTF file"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:249
+msgid "http://example.com/wp-content/my-custom-font/my-custom-font.ttf"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:255
+msgid "SVG file"
+msgstr ""
+
+#: theme/theme-options/rella-typography.php:256
+msgid "http://example.com/wp-content/my-custom-font/my-custom-font.svg"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:4
+msgid "Woocommerce"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:9
+msgid "Shop Settings"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:16
+msgid "Woo Category Title Bar"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:17
+msgid "Turn on to show the woo category title bar"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:28
+msgid "Woo Category Title"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:29
+msgid "Controls the title text that displays in the woo category"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:35
+msgid "Woo Category Subtitle"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:36
+msgid "Controls the subtitle text that displays in the woo category"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:42
+msgid "Shop Catalog Style"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:43
+msgid "Select a style for products to display on shop catalog"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:54
+msgid "Sorter By"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:55
+msgid "Turn on to show sorterby on shop/category page"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:66
+msgid "Products per page"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:67
+msgid "How many products per page to display?"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:74
+msgid "Shop Columns"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:75
+#: theme/theme-options/rella-woocommerce.php:124
+#: theme/theme-options/rella-woocommerce.php:145
+#: theme/theme-options/rella-woocommerce.php:161
+msgid "Select how many columns per row to display"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:92
+msgid "Single Product"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:99
+msgid "Product Style"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:100
+msgid "Select a single product style display"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:111
+msgid "Enable Related Products"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:112
+msgid "Will enable related products on single product "
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:123
+msgid "Related Products Columns"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:144
+msgid "Up-Sell Products Columns"
+msgstr ""
+
+#: theme/theme-options/rella-woocommerce.php:160
+msgid "Cross-Sell Products Columns"
+msgstr ""
+
+#: theme/theme-portfolio.php:151 theme/theme-portfolio.php:163
+msgid "More Stories"
+msgstr ""
+
+#: theme/theme-portfolio.php:157
+msgid "Load more"
+msgstr ""
+
+#: theme/theme-portfolio.php:169
+msgid "Read more stories"
+msgstr ""
+
+#: theme/theme-register-plugins.php:29
+msgid "Infinite Addons"
+msgstr ""
+
+#: theme/theme-register-plugins.php:40
+msgid "Infinite Portfolio"
+msgstr ""
+
+#: theme/theme-register-plugins.php:51
+msgid "Visual Composer"
+msgstr ""
+
+#: theme/theme-register-plugins.php:62
+msgid "Redux Framework"
+msgstr ""
+
+#: theme/theme-register-plugins.php:82
+msgid "Contact Form 7"
+msgstr ""
+
+#: theme/theme-setup.php:78
+msgid "Primary Menu"
+msgstr ""
+
+#: theme/theme-setup.php:87
+msgid "Main widget area to display in sidebar"
+msgstr ""
+
+#: theme/theme-template-tags.php:628
+#, php-format
+msgid ""
+"<span><i class=\"fa fa-heart\"></i> <span class=\"post-likes-count\">%s</"
+"span></span>"
+msgstr ""
+
+#: theme/theme-template-tags.php:838
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: theme/theme-template-tags.php:871
+msgid "Send this article to a friend!"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:51
+msgid "Boo Universe"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:70
+msgid "All"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:71
+msgid "Banners"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:73
+msgid "Clients"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:74
+msgid "Counters"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:75
+msgid "FAQ"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:76
+msgid "Footers"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:77
+msgid "Headers"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:78
+msgid "Icon Boxes"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:79
+msgid "Maps"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:80
+msgid "Misc"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:81
+msgid "Pricing"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:83
+msgid "Shop"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:84
+msgid "Tabs"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:85
+msgid "Team"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:86
+msgid "Testimonials"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:87
+msgid "Text"
+msgstr ""
+
+#: theme/theme-vc-templates-panel-editor.php:517
+msgid "No title"
+msgstr ""
+
+#: theme/theme-vc-templates.php:23
+msgid "Banner About"
+msgstr ""
+
+#: theme/theme-vc-templates.php:35
+msgid "Banner Landing"
+msgstr ""
+
+#: theme/theme-vc-templates.php:48
+msgid "Banner Landing CTA"
+msgstr ""
+
+#: theme/theme-vc-templates.php:61 theme/theme-vc-templates.php:384
+msgid "Banner Mobile"
+msgstr ""
+
+#: theme/theme-vc-templates.php:74 theme/theme-vc-templates.php:247
+msgid "Banner Video"
+msgstr ""
+
+#: theme/theme-vc-templates.php:87
+msgid "Banner Video 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:100
+msgid "Banner Wave Shape Bottom"
+msgstr ""
+
+#: theme/theme-vc-templates.php:113
+msgid "Banner Wave Shape Top"
+msgstr ""
+
+#: theme/theme-vc-templates.php:126
+msgid "Banner About 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:138
+msgid "Banner About 3"
+msgstr ""
+
+#: theme/theme-vc-templates.php:150
+msgid "Banner About 4"
+msgstr ""
+
+#: theme/theme-vc-templates.php:162
+msgid "Banner App"
+msgstr ""
+
+#: theme/theme-vc-templates.php:175
+msgid "Banner Big Button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:187
+msgid "Banner Colorful"
+msgstr ""
+
+#: theme/theme-vc-templates.php:199
+msgid "Banner Call to Action"
+msgstr ""
+
+#: theme/theme-vc-templates.php:211
+msgid "Banner Checkmarks"
+msgstr ""
+
+#: theme/theme-vc-templates.php:223
+msgid "Banner Dark Video"
+msgstr ""
+
+#: theme/theme-vc-templates.php:235
+msgid "Banner Dual Buttons"
+msgstr ""
+
+#: theme/theme-vc-templates.php:273
+msgid "Banner Minimal Split"
+msgstr ""
+
+#: theme/theme-vc-templates.php:285 theme/theme-vc-templates.php:496
+msgid "Banner Split"
+msgstr ""
+
+#: theme/theme-vc-templates.php:297
+msgid "Banner Split Big Button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:309
+msgid "Banner Product"
+msgstr ""
+
+#: theme/theme-vc-templates.php:323
+msgid "Banner Shop Split"
+msgstr ""
+
+#: theme/theme-vc-templates.php:336
+msgid "Banner Simple Mobile"
+msgstr ""
+
+#: theme/theme-vc-templates.php:348
+msgid "Banner Small Heading"
+msgstr ""
+
+#: theme/theme-vc-templates.php:360
+msgid "Banner Checkmarks with Tooltips"
+msgstr ""
+
+#: theme/theme-vc-templates.php:372
+msgid "Banner Lightbox"
+msgstr ""
+
+#: theme/theme-vc-templates.php:396
+msgid "Banner Music"
+msgstr ""
+
+#: theme/theme-vc-templates.php:408
+msgid "Banner Video with background"
+msgstr ""
+
+#: theme/theme-vc-templates.php:420
+msgid "Banner Travel"
+msgstr ""
+
+#: theme/theme-vc-templates.php:432
+msgid "Banner Gradient Circles"
+msgstr ""
+
+#: theme/theme-vc-templates.php:444
+msgid "Banner Gradient Text"
+msgstr ""
+
+#: theme/theme-vc-templates.php:460
+msgid "Banner with Button and Clients"
+msgstr ""
+
+#: theme/theme-vc-templates.php:472
+msgid "Banner Plain with Button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:484
+msgid "Banner Featured Item Caroulsel"
+msgstr ""
+
+#: theme/theme-vc-templates.php:508
+msgid "Banner with Checkmarks and Button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:520
+msgid "Banner with Checkmarks"
+msgstr ""
+
+#: theme/theme-vc-templates.php:532
+msgid "Banner with Featured Item"
+msgstr ""
+
+#: theme/theme-vc-templates.php:544
+msgid "Banner with Detailed Content"
+msgstr ""
+
+#: theme/theme-vc-templates.php:557
+msgid "Banner with Background Image, Clients and Button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:569
+msgid "Banner Plain"
+msgstr ""
+
+#: theme/theme-vc-templates.php:581
+msgid "Banner Classic Center"
+msgstr ""
+
+#: theme/theme-vc-templates.php:593
+msgid "Banner Gradient with Clients and Button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:605
+msgid "Banner with Text Boxes"
+msgstr ""
+
+#: theme/theme-vc-templates.php:617
+msgid "Banner Minimal with Call to Action"
+msgstr ""
+
+#: theme/theme-vc-templates.php:629
+msgid "Banner Classic Left"
+msgstr ""
+
+#: theme/theme-vc-templates.php:641
+msgid "Banner Video Player"
+msgstr ""
+
+#: theme/theme-vc-templates.php:653
+msgid "Banner Elegant"
+msgstr ""
+
+#: theme/theme-vc-templates.php:665
+msgid "Banner Minimal"
+msgstr ""
+
+#: theme/theme-vc-templates.php:677
+msgid "Banner with play button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:689
+msgid "Banner with play button 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:701
+msgid "Banner with play button 3"
+msgstr ""
+
+#: theme/theme-vc-templates.php:713
+msgid "Banner with rounded button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:725
+msgid "Banner Zig Zag"
+msgstr ""
+
+#: theme/theme-vc-templates.php:738
+msgid "Blog Shadow"
+msgstr ""
+
+#: theme/theme-vc-templates.php:750
+msgid "Blog Border"
+msgstr ""
+
+#: theme/theme-vc-templates.php:762
+msgid "Blog Review"
+msgstr ""
+
+#: theme/theme-vc-templates.php:774
+msgid "Blog Featured Date"
+msgstr ""
+
+#: theme/theme-vc-templates.php:786
+msgid "Blog Light"
+msgstr ""
+
+#: theme/theme-vc-templates.php:799
+msgid "Blog Colored Meta"
+msgstr ""
+
+#: theme/theme-vc-templates.php:811
+msgid "Blog Carousel"
+msgstr ""
+
+#: theme/theme-vc-templates.php:823
+msgid "Blog Carousel 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:835
+msgid "Blog Featured Title"
+msgstr ""
+
+#: theme/theme-vc-templates.php:847
+msgid "Blog Featured Date 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:859
+msgid "Blog Gradient Boxes"
+msgstr ""
+
+#: theme/theme-vc-templates.php:871
+msgid "Blog Classic"
+msgstr ""
+
+#: theme/theme-vc-templates.php:884
+msgid "Blog Puzzle"
+msgstr ""
+
+#: theme/theme-vc-templates.php:896
+msgid "Blog Overlay"
+msgstr ""
+
+#: theme/theme-vc-templates.php:908
+msgid "Blog Badge"
+msgstr ""
+
+#: theme/theme-vc-templates.php:921
+msgid "Clents Classic with Solid Background"
+msgstr ""
+
+#: theme/theme-vc-templates.php:933
+msgid "Clients Inverse with Background Image"
+msgstr ""
+
+#: theme/theme-vc-templates.php:945
+msgid "Clients Plain"
+msgstr ""
+
+#: theme/theme-vc-templates.php:957
+msgid "Clients Border Separator"
+msgstr ""
+
+#: theme/theme-vc-templates.php:969
+msgid "Clients Border Top"
+msgstr ""
+
+#: theme/theme-vc-templates.php:982
+msgid "Counter Uno"
+msgstr ""
+
+#: theme/theme-vc-templates.php:994
+msgid "Counter Due"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1008
+msgid "Counter Tre"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1020
+msgid "Counter Quattro"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1032
+msgid "Counter Cinque"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1044
+msgid "Counter  Sei"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1056
+msgid "Counter Sette"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1068
+msgid "Counter Otto"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1080
+msgid "Counter Nove"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1092
+msgid "Counter Diece"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1104
+msgid "Counter Undici"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1117
+msgid "FAQ Car Rental"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1129
+msgid "FAQ Classic"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1143
+msgid "FAQ Cloud"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1156
+msgid "FAQ Hosting Blue"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1168
+msgid "FAQ Hosting Red"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1180
+msgid "FAQ Lawyer"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1192
+msgid "FAQ University"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1205
+msgid "Footer Agency"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1217
+msgid "Footer Black"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1229
+msgid "Footer Business"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1241
+msgid "Footer Business 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1261
+msgid "Footer Business 3"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1277
+msgid "Footer Car Dealer"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1291
+msgid "Footer Car Rental"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1305
+msgid "Footer Cloud"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1317
+msgid "Footer Corporate"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1331
+msgid "Footer Corporate 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1344
+msgid "Footer Elegant"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1360
+msgid "Footer Hosting Blue"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1372
+msgid "Footer Hosting Red"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1397
+msgid "Footer Main Newsletter"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1409
+msgid "Footer Mobile"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1422
+msgid "Footer Portfolio"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1439
+msgid "Footer Portfolio 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1458
+msgid "Footer University"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1470
+msgid "Footer Portfolio05"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1482
+msgid "Footer Shop"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1496
+msgid "Header Dark Vertical"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1509
+msgid "Header Essential One"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1522
+msgid "Header Essential Two"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1535
+msgid "Header Fashion Blor"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1548
+msgid "Header Landing Three"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1561
+msgid "Header Landing Two"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1574
+msgid "Header Light Vertical"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1587
+msgid "Header Modern Four"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1600
+msgid "Header Separated"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1613
+msgid "Header Shop Two"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1626
+msgid "Header Agency"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1638
+msgid "Header Barber"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1650
+msgid "Header Business 01"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1662
+msgid "Header Business 04"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1674
+msgid "Header Business 08"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1686
+msgid "Header Car Dealer"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1698
+msgid "Header Car Rental"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1710
+msgid "Header Classic"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1722
+msgid "Header Classic 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1734
+msgid "Header Cloud"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1746
+msgid "Header Corporate"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1758
+msgid "Header Corporate 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1770
+msgid "Header Corporate 3"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1782
+msgid "Header Elegant"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1794
+msgid "Header Hosting Blue"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1806
+msgid "Header Hosting Red"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1818
+msgid "Header Lawyer"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1830
+msgid "Header Main"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1842
+msgid "Header Mobile"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1854
+msgid "Header Photography"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1868
+msgid "Header Portfolio 01"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1880
+msgid "Header Portfolio 02"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1894
+msgid "Header Portfolio 03"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1906
+msgid "Header Portfolio 04"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1918
+msgid "Header Portfolio 05"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1930
+msgid "Header Portfolio 06"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1946
+msgid "Header Portfolio 08"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1958
+msgid "Header Restaurant"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1970
+msgid "Header Shop"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1982
+msgid "Header University"
+msgstr ""
+
+#: theme/theme-vc-templates.php:1996
+msgid "Icon Box Circle with Buttons"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2008
+msgid "Icon Box Classic Outlines"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2020
+msgid "Icon Box Colorful Backgrounds"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2033
+msgid "Icon Box Colorful Lines"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2045
+msgid "Icon Box Dark Icons"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2057
+msgid "Icon Box With Pointers"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2100
+msgid "Icon Box Mobile"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2112
+msgid "Icon Box Separators"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2124
+msgid "Icon Box Simple circle"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2137 theme/theme-vc-templates.php:2506
+msgid "Icon Box Square"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2164
+msgid "Icon Box Title Rotator"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2176
+msgid "Icon Box Mobile Presentation"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2190
+msgid "Icon Box Process with Counter"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2202
+msgid "Icon Box Classic"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2214
+msgid "Icon Box Rounde Shape"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2226
+msgid "Icon Box Big Rounded Border"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2238
+msgid "Icon Box with Banner"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2258
+msgid "Icon Box Rounded 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2270
+msgid "Icon Box Border Dark"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2282
+msgid "Icon Box with Heading"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2298
+msgid "Icon Box Border with Button "
+msgstr ""
+
+#: theme/theme-vc-templates.php:2310
+msgid "Icon Box Expanding Shadow"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2322
+msgid "Icon Box Border Boxed"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2335
+msgid "Icon Box Horizontal"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2348
+msgid "Icon Box Rounded"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2360
+msgid "Icon Box Hexagon"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2372
+msgid "Icon Box Classic with Button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2384
+msgid "Icon Box Classic 4 Columns"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2396
+msgid "Icon Box Small Rounded with Image"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2408
+msgid "Icon Box Process"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2420
+msgid "Icon Box Naked Left with Button 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2432
+msgid "Icon Box Naked Left with Button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2444
+msgid "Icon Box with Button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2456
+msgid "Icon Box Shadow Hover"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2470
+msgid "Icon Box Inverse"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2482
+msgid "Icon Box Rounded Border"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2494
+msgid "Icon Box Classic 3 Columns"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2518
+msgid "Icon Box Border Left"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2530
+msgid "Icon Box Inverse Square"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2543
+msgid "Icon Box with Ratings"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2555
+msgid "Icon Box Minimal Rounded"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2567
+msgid "Icon Box Colorful"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2580
+msgid "Map Greyscale with tooltip"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2596
+msgid "Map Circle with Tooltip"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2615
+msgid "Map Pastel with image"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2627
+msgid "Map Greyscale with marker"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2639
+msgid "Map Blue with marker"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2651
+msgid "Map Shadow box"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2670
+msgid "Misc Address and form"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2697
+msgid "Misc Graphic"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2709
+msgid "Misc Lines"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2721
+msgid "Misc Timeline"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2733
+msgid "Misc Laptop Carousel with Buttons"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2778
+msgid "Misc Graph"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2792
+msgid "Misc Graph 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2820
+msgid "Misc Infinite Scrolling"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2832
+msgid "Misc Lightbox with Accordion"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2844
+msgid "Main Slider"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2856
+msgid "Portfolio Lightbox with Accordion"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2868
+msgid "Portfolio Blur"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2893
+msgid "Pricing Colorful"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2905
+msgid "Pricing Minimal with Checkmarks"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2919
+msgid "Pricing Minimal"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2931
+msgid "Pricing Gradient with Tabs"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2944
+msgid "Pricing Compare"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2957
+msgid "Pricing Featured with Phone"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2969
+msgid "Pricing Minimal Rounded with Buttons"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2981
+msgid "Pricing Featured with Phone 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:2993
+msgid "Pricing with Image"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3005
+msgid "Pricing Simple"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3017
+msgid "Pricing Badge"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3029
+msgid "Pricing Menu list with image"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3041
+msgid "Pricing menu list"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3054
+msgid "Services Cards"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3066
+msgid "Services Casual"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3078
+msgid "Services Centered"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3090
+msgid "Services Featured"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3102 theme/theme-vc-templates.php:3239
+msgid "Services Classic"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3114
+msgid "Services Classic Flipbox"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3127
+msgid "Services Flipbox with Buttons"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3139
+msgid "Services Flipbox with Icons"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3165
+msgid "Services Promo Boxes"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3177
+msgid "Services Shadow"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3203
+msgid "Services Classic with Banner"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3215
+msgid "Services Classic Border"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3227
+msgid "Services Classic 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3251
+msgid "Services Shadow colored border"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3263
+msgid "Services Process"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3278
+msgid "Services With Accordion"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3290
+msgid "Services List with Button"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3305
+msgid "Services List Dark"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3318
+msgid "Services Elegant Hover"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3330
+msgid "Services No Gap"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3342
+msgid "Services Minimal"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3354
+msgid "Services Text with title"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3366
+msgid "Services FlipBox"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3379
+msgid "Shop Shadow hover"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3391
+msgid "Shop Banner"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3404
+msgid "Shop Categories"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3417
+msgid "Shop Look"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3430
+msgid "Shop Featured Categories"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3444
+msgid "Shop Packery Categories"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3456
+msgid "Shop Products with Tabs"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3468
+msgid "Shop Products Border Left"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3480
+msgid "Shop Pointer"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3494
+msgid "Accordion - Tabs"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3506
+msgid "Tabs Vertical with Icons and Pricing"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3540
+msgid "Tabs Naked with Banner and Featured Box left"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3552
+msgid "Tabs Naked with Banner and Featured Box"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3564
+msgid "Tabs Border"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3577
+msgid "Tabs Shadow with checkmarks"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3589
+msgid "Tabs Text Only with Contacts"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3601
+msgid "Tabs Big Icons with Carousel"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3613
+msgid "Tabs Minimal with Content Box"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3625
+msgid "Tabs Calendar"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3637
+msgid "Tabs Classic with Content Box"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3650
+msgid "Team Colorful"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3662
+msgid "Team Gradient"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3674
+msgid "Team Border Left"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3686
+msgid "Team Colored Position"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3698
+msgid "Team Colored Position 3"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3710
+msgid "Team Classic"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3722
+msgid "Team Shadow"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3734
+msgid "Team Masonry"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3746
+msgid "Team Contact Info"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3758
+msgid "Team Business Card"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3770
+msgid "Team Minimal"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3782
+msgid "Team Gradient Hover"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3794
+msgid "Team Colored Position 2"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3807
+msgid "Testimonials bubbles with clients"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3819
+msgid "Testimonials Text Only"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3831
+msgid "Testimonials With Clients"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3843
+msgid "Testimonials Inverse"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3855
+msgid "Testimonials Horizontal Border"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3867
+msgid "Testimonials Speech bubble"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3879
+msgid "Testimonials featured image"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3891
+msgid "Testimonials Rounded Image center"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3903
+msgid "Testimonials rounded image with border"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3915
+msgid "Testimonials Split"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3927
+msgid "Testimonials Classic"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3939
+msgid "Testimonials Minimal"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3951
+msgid "Testimonials Carousel with Instagram"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3964
+msgid "Text Space"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3976
+msgid "Text Heading Light"
+msgstr ""
+
+#: theme/theme-vc-templates.php:3988
+msgid "Text Heading dark"
+msgstr ""
+
+#: theme/theme-vc-templates.php:4000
+msgid "Text Center with Image"
+msgstr ""
+
+#: theme/theme-vc-templates.php:4012
+msgid "Text Split"
+msgstr ""
+
+#: theme/theme-vc-templates.php:4024
+msgid "Text Split 2"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:18
+msgid "Add to wishlist"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:28
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:55
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:56
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:58
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:70
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:72
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:50 woocommerce/cart/cart-totals.php:51
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:66
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:88 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:89 woocommerce/checkout/form-coupon.php:38
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:89 woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:99 woocommerce/cart/cart-totals.php:100
+#: woocommerce/cart/header-mini-cart.php:114 woocommerce/cart/mini-cart.php:84
+#: woocommerce/checkout/review-order.php:71
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:104 woocommerce/cart/cart-totals.php:105
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:111
+#: woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:118
+#: woocommerce/order/order-details.php:44
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:48
+#: woocommerce/checkout/review-order.php:26
+#: woocommerce/order/order-details.php:43
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:87
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:93
+#: woocommerce/global/quantity-input.php:28
+#: woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:54 woocommerce/cart/header-mini-cart.php:76
+#: woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:31
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/header-mini-cart.php:35
+msgid "Your Cart"
+msgstr ""
+
+#: woocommerce/cart/header-mini-cart.php:104 woocommerce/cart/mini-cart.php:76
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/header-mini-cart.php:122 woocommerce/cart/mini-cart.php:90
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:89
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+#: woocommerce/cart/shipping-calculator.php:58
+#: woocommerce/cart/shipping-calculator.php:70
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:59
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:81
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:89
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:94
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:23
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:27
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:46
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:56
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/content-single-product.php:34
+msgid "Added to cart!"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:41
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:23
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:23
+msgid "Sold Out"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:25
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:27
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:27
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:28
+msgid "Billing email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:28
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-again.php:22
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:23
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:29
+#: woocommerce/order/order-details.php:79
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:36
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:43
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:60
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:63
+#: woocommerce/order/order-details-customer.php:74
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:71
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/order/order-details.php:38
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/tracking.php:26
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/order/tracking.php:34
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/order/tracking.php:40
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:46
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:105
+#: woocommerce/single-product/product-image.php:191
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:49
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/stock.php:26
+msgid "Availability: "
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:40
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/wishlist-header.php:6
+msgid "View All"
+msgstr ""
+
+#: woocommerce/wishlist-header.php:26
+msgid "items in your wishlist"
+msgstr ""
+
+#: woocommerce/wishlist-header.php:76
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-header.php:86
+msgid "No products in the wishlist"
+msgstr ""
+
+#: woocommerce/yith-quick-view-content.php:23
+msgid "Item Added!"
+msgstr ""

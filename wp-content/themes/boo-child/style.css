@@ -1,0 +1,280 @@
+/*
+Theme Name: Boo Child
+Theme URI: http://boo.themerella.com/
+Author: ThemeRella Team
+Author URI: https://themeforest.net/user/themerella
+Template:  boo
+Description: Versatile, Powerful and Ultimate Wordpress Theme Made by Themerella. Boo is endlessly customizable, fully responsive and retina ready Wordpress theme.
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Text Domain: boo
+Tags: featured-images, two-columns, custom-header, custom-menu, flexible-header, full-width-template, post-formats, theme-options
+*/
+
+
+@font-face {
+	font-family: 'Inter-Bold';
+	src: url("../boo-child/fonts/inter/Inter-Bold.ttf") format('opentype');
+}
+
+@font-face {
+	font-family: 'Inter-LightBETA';
+	src: url("../boo-child/fonts/inter/Inter-Light-BETA.ttf") format('opentype');
+}
+
+@font-face {
+	font-family: 'Inter-Medium';
+	src: url("../boo-child/fonts/inter/Inter-Medium.ttf") format('opentype');
+}
+
+@font-face {
+	font-family: 'Inter-Regular';
+	src: url("../boo-child/fonts/inter/Inter-Regular.ttf") format('opentype');
+}
+
+@font-face {
+	font-family: 'Inter-SemiBold';
+	src: url("../boo-child/fonts/inter/Inter-SemiBold.ttf") format('opentype');
+}
+
+body {
+    font-family: 'Inter-Regular' !important;
+    font-weight: 400 !important;
+    margin-right: auto;
+    margin-left: auto;
+    overflow-x: hidden;
+    max-width: 2560px;
+}
+.main-header .navbar-brand img {
+    max-width: 50%;
+}
+.header_menu .link-txt {
+    color: #151828 !important;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    line-height: 19.36px;
+    text-align: right;
+    padding: 0;
+}
+.header_btn span {
+    padding: 11px 27px 11px 30px;
+}
+.header_button{
+    font-family: 'Lato', sans-serif !important;
+    font-size: 14px !important;
+    letter-spacing: 1px !important;
+    line-height: 16.8px !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+    color: #FFFFFF !important;
+    background-color: #0181C5 !important;
+    border-radius: 20px !important; 
+  
+}
+.header_button:hover{
+    background-color: #0181C5 !important;
+    border: #0181C5;
+}
+.header_menu .link-txt {
+     padding: 0;
+    color: #151828 !important;
+    font-family: 'Inter-Regular';
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    line-height: 19.36px;
+    text-align: right;
+}
+.main-nav > li {
+    padding: 0 20px !important;
+}
+.main-nav > li a{
+    padding: 14px 0px;
+    color: #151828 !important;
+    font-family: 'Inter-Regular';
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    line-height: 19.36px;
+    text-align: right;
+}
+#content {
+    padding-top: 0px;
+}
+.know_col_left{
+    position: relative;
+    width: 45%;
+    float: left;
+    padding-left: 33px;
+}
+.know_col_right{
+    width: 55%;
+    float: left;
+}
+.know_col_right .img_wrap {
+    width: 108%;
+    margin-top: -6%;
+    position: relative;
+}
+.know_col_right .img_wrap .smallbuilding {
+    position: absolute;
+    bottom: 95px;
+    right: -60px;
+    width: 210px;
+}
+.know_col_right .img_wrap .small_wave {
+    float: right;
+}
+.know_col_left img{
+    position: absolute;
+
+}
+.banner_heading{
+    color: #212B36;
+    font-family: 'Inter-Bold' !important;
+    font-size: 48px;
+    font-weight:400;
+    line-height: 58.09px;
+    text-align: left;
+    padding-bottom: 18px;
+    margin-top: 0px !important;
+}
+.banner_p{
+    color: #06090C;
+    font-family: 'Inter-Regular';
+    font-size: 20px;
+    line-height: 28px;
+    opacity: 0.7;
+    text-align: left;
+}
+.know_col_right .img_wrap {
+    width: 108%;
+    margin-top: -6%;
+    position: relative;
+}
+.schedule_demo_btn span{
+     background-color: #0181C5 !important;
+  border-radius: 27px;
+     padding: 15px 37px;
+}
+.schedule_demo_btn {
+    background-color: #0181C5 !important;
+    border-radius: 27px !important;
+    border-color: #0181C5 !important;
+    color: #FFFFFF !important;
+    font-family: 'Inter-Bold';
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 24px !important;
+    font-size: 16px !important;
+    text-align: center !important;
+}
+.icon_box_wrap .icon-box h3 {
+    color: #212B36;
+    font-family: 'Inter-Bold';
+    font-size: 20px;
+    font-weight: 400 !important;
+    line-height: 24.2px;
+    text-align: left;
+    margin:33px 0 9px;
+}
+.icon_box_wrap {
+    width: 100%;
+    float: left;
+}
+.icon_box_wrap .icon-box p {
+    color: #637381;
+    font-family: 'Inter-Regular';
+    margin-bottom: 0px;
+    font-size: 18px;
+    letter-spacing: 0.64px;
+    line-height: 26px;
+    text-align: left;
+    padding: 0;
+    font-weight: 400 !important;
+}
+.icon_box_wrap .icon-container {
+    text-align: left;
+}
+.icon_box_wrap img {
+    width: 75px;
+    height: 80px;
+}
+.icon_box_wrap .icon-box {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px 0 rgba(116, 125, 132, 0.16);
+    border: none;
+    padding: 37px 22px 27px 29px;
+    transition: 0.3s all linear;
+    min-height: 420px;
+    margin-bottom: 0px !important;
+}
+.lighthouse_powerfull h2 {
+    color: #212B36;
+    font-family: 'Inter-Bold';
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 55.67px;
+    text-align: center;
+    margin-bottom: 16px;
+    padding-bottom: 17px;
+}
+.lighthouse_powerfull h5 {
+    width: 56%;
+    padding-bottom: 41px;
+    max-width: 650px;
+}
+
+.lighthouse_powerfull h5 {
+    color: #637381;
+    font-family: 'Inter-Regular' ;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    margin: 0 auto;
+}
+.graph_img{
+    position: absolute;
+    bottom: 100px;
+    left: 0;
+    width: 553px;
+}
+
+
+
+
+
+
+
+
+@media (min-width: 1200px){
+    .container {
+        max-width: 1170px;
+        max-width: calc( 1170px + 30px); 
+        margin-left: auto;
+        margin-right: auto;
+        width: 100% !important;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
