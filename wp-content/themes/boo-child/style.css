@@ -37,7 +37,9 @@ Tags: featured-images, two-columns, custom-header, custom-menu, flexible-header,
 	font-family: 'Inter-SemiBold';
 	src: url("../boo-child/fonts/inter/Inter-SemiBold.ttf") format('opentype');
 }
-
+.wpb_content_element {
+    margin-bottom: 0 !important;
+}
 body {
     font-family: 'Inter-Regular' !important;
     font-weight: 400 !important;
